@@ -1,0 +1,101 @@
+{
+  "_MUSIC": {
+    "Musical_Instruments-Classification": {
+      "INST-Q1": {
+        "Question": "bzxtrvy A drum is an example of a ______ instrument",
+        "a": "wind",
+        "b": "percussion",
+        "c": "string",
+        "d": "keyboard"
+      },
+      "INST-Q2": {
+        "Question": "czxtrvy A guitar is an example of a ______ instrument",
+        "a": "wind",
+        "b": "percussion",
+        "c": "string",
+        "d": "brass"
+      },
+      "INST-Q3": {
+        "Question": "azxtrvy Which of the following is a wind instrument?",
+        "a": "flute",
+        "b": "drums",
+        "c": "guitar",
+        "d": "piano"
+      },
+      "INST-Q4": {
+        "Question": "dzxtrvy The kalimba is a traditional African ______ instrument",
+        "a": "wind",
+        "b": "string",
+        "c": "brass",
+        "d": "idiophone (thumb piano)"
+      },
+      "INST-Q5": {
+        "Question": "bzxtrvy A piano is an example of a ______ instrument",
+        "a": "wind",
+        "b": "keyboard",
+        "c": "percussion",
+        "d": "string"
+      }
+    },
+    "Notes_and_Rhythm-Music_Notation": {
+      "NOTE-Q1": {
+        "Question": "czxtrvy How many beats does a semibreve (whole note) have?",
+        "a": "1",
+        "b": "2",
+        "c": "4",
+        "d": "3"
+      },
+      "NOTE-Q2": {
+        "Question": "bzxtrvy A minim (half note) receives ______ beats",
+        "a": "1",
+        "b": "2",
+        "c": "4",
+        "d": "3"
+      },
+      "NOTE-Q3": {
+        "Question": "azxtrvy The five horizontal lines on which music is written is called the ______",
+        "a": "stave (staff)",
+        "b": "bar",
+        "c": "clef",
+        "d": "scale"
+      },
+      "NOTE-Q4": {
+        "Question": "dzxtrvy Musical notes are arranged in groups called ______",
+        "a": "scales",
+        "b": "chords",
+        "c": "keys",
+        "d": "bars (measures)"
+      }
+    },
+    "African_Music-Traditional_Music_of_Zambia": {
+      "AFR-Q1": {
+        "Question": "azxtrvy Traditional Zambian music is often performed during ______",
+        "a": "cultural ceremonies and celebrations",
+        "b": "science fairs",
+        "c": "sport competitions",
+        "d": "mathematics lessons"
+      },
+      "AFR-Q2": {
+        "Question": "czxtrvy The ngoma is a type of traditional African ______",
+        "a": "flute",
+        "b": "string instrument",
+        "c": "drum",
+        "d": "wind instrument"
+      },
+      "AFR-Q3": {
+        "Question": "bzxtrvy Call-and-response singing means ______",
+        "a": "singing alone",
+        "b": "a leader sings and the group replies",
+        "c": "everyone sings together",
+        "d": "singing in rounds"
+      },
+      "AFR-Q4": {
+        "Question": "dzxtrvy The mbira (thumb piano) originates from ______",
+        "a": "Europe",
+        "b": "Asia",
+        "c": "America",
+        "d": "Africa"
+      }
+    }
+  }
+}

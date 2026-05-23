@@ -1,0 +1,464 @@
+{
+  "_MATHEMATICS": {
+    "Text_only_questions": {
+      "MT-Q1": {
+        "Question": "dzxtrvy731,479 + 145,832 =",
+        "a": "A 876,201",
+        "b": "B 876,211",
+        "c": "C 877,301",
+        "d": "D 877,311"
+      },
+      "MT-Q2": {
+        "Question": "azxtrvyGiven that A = {1, 2, 3, 4} and B= {1, 3, 5, 7, 9, 11}, list A ∩ B.",
+        "a": "{1,3}",
+        "b": "{1,3, 5}",
+        "c": "{1,.2, 3}",
+        "d": "{1,2 3, 4}"
+      },
+      "MT-Q3": {
+        "Question": "azxtrvyIf x + 15 = 20, then x equals ...",
+        "a": "5",
+        "b": "10",
+        "c": "30",
+        "d": "35"
+      },
+      "MT-Q4": {
+        "Question": "czxtrvyWhat is the next number in the sequence 128, 64, 32, 16, ...?",
+        "a": "12",
+        "b": "10",
+        "c": "8",
+        "d": "4"
+      },
+      "MT-Q5": {
+        "Question": "azxtrvyA grade seven learner got 16 marks out of 20 in Mathematics. Convert the marks to a percentage.",
+        "a": "",
+        "b": "0.8",
+        "c": "0.08",
+        "d": "0.008"
+      },
+      "MT-Q6": {
+        "Question": "azxtrvy120.542 + 48.78  =",
+        "a": "A 169.322",
+        "b": "B 169.222",
+        "c": "C 125.420",
+        "d": "D 125.320"
+      },
+      "MT-Q7": {
+        "Question": "czxtrvyWhat are the prime factors of 15?",
+        "a": "2 and 3",
+        "b": "2 and 5",
+        "c": "3 and 5",
+        "d": "1 and 15",
+        "e": "Numbers that you multiply to get  the number"
+      },
+      "MT-Q8": {
+        "Question": "bzxtrvyFind the perimeter of a triangular field measuring 125 metres by 100 metres by 75",
+        "a": "175 metres",
+        "b": "300 metres",
+        "c": "225 metres",
+        "d": "200 metres"
+      },
+      "MT-Q9": {
+        "Question": "bzxtrvyA watermelon was cut into 7 equal pieces. If four pieces were eaten, what fraction of the watermelon were the remaining pieces?",
+        "a": "⁴⁄₇",
+        "b": "³⁄₇",
+        "c": "⁷⁄₄",
+        "d": "⁷⁄₃"
+      },
+      "MT-Q10": {
+        "Question": "czxtrvyExpress ¾ as a percentage.",
+        "a": "7.5",
+        "b": "0.75",
+        "c": "75%",
+        "d": "0.0075"
+      },
+      "MT-Q11": {
+        "Question": "czxtrvyIn Hindu-Arabic numerals, the Roman numeral LXXIV can be written as ...",
+        "a": "54",
+        "b": "64",
+        "c": "74",
+        "d": "84"
+      },
+      "MT-Q12": {
+        "Question": "dzxtrvyFind the mode of 5, 8, 6, 5, 7, 6, 5 and 7.",
+        "a": "8",
+        "b": "7",
+        "c": "6",
+        "d": "5",
+        "e": "Mode is the most repeated number"
+      },
+      "MT-Q13": {
+        "Question": "dzxtrvyA trader bought cooking oil at K63.00 and sold it at K49.00. What was his loss?",
+        "a": "K112.00",
+        "b": "K102.00",
+        "c": "K24.00",
+        "d": "K14.00",
+        "e": "Loss is the amount you lose when you sell at a lower price than the price you paid for an item"
+      },
+      "MT-Q14": {
+        "Question": "azxtrvyChange ⅘ to a decimal fraction.",
+        "a": "0.8",
+        "b": "0.7",
+        "c": "0.5",
+        "d": "0.4",
+        "e": "⅘ is the same as ⁸⁄₁₀. A fraction does not change when you multiply the numerator and the denominator by the same number"
+      },
+      "MT-Q15": {
+        "Question": "dzxtrvyExpress 6 X 6 X 6 X 6 X 6 in index form.",
+        "a": "2⁶",
+        "b": "5⁶",
+        "c": "6⁴",
+        "d": "6⁵"
+      },
+      "MT-Q16": {
+        "Question": "czxtrvyExpress the ratio 8 metres to 800 metres in its lowest terms.",
+        "a": "100 to 1",
+        "b": "10 to 1",
+        "c": "1 to 100",
+        "d": "1 to 10",
+        "e": "Simply divide the numbers by their highest common factor (8)"
+      },
+      "MT-Q17": {
+        "Question": "czxtrvyConvert 0.25 to a percentage.",
+        "a": "0.0025",
+        "b": "0.025",
+        "c": "25%",
+        "d": "0.5%",
+        "e": "Percent means out of hundred. So 25 out of 100 is 25/100 or 0.25 or 25%"
+      },
+      "MT-Q18": {
+        "Question": "dzxtrvyWhich of the following numbers are factors of 12?",
+        "a": "12, 24, 36, 48, 50",
+        "b": "12, 24, 36, 48",
+        "c": "1, 2,3, 6, 12, 24",
+        "d": "1, 2, 3, 4, 6 , 12",
+        "e": "Factors are whole numbers  which do not leave a remainder when the original number is divided by those whole numbers"
+      },
+      "MT-Q19": {
+        "Question": "bzxtrvyDivide 175 by 25.",
+        "a": "5",
+        "b": "7",
+        "c": "150",
+        "d": "200"
+      },
+      "MT-Q20": {
+        "Question": "dzxtrvyWhich of the following statements is correct?",
+        "a": "+4  < -5",
+        "b": " -11 > +21",
+        "c": " +6  < -21",
+        "d": "+3 > -7"
+      },
+      "MT-Q21": {
+        "Question": "azxtrvyIn a certain year, Mrs Chongo produced 10,000 bags of rice while Mrs Mubita produced 9,874 bags of rice. Calculate the difference between the number of bags of rice produced.",
+        "a": "126",
+        "b": "226",
+        "c": "1,126",
+        "d": "19,874"
+      },
+      "MT-Q22": {
+        "Question": "czxtrvyArrange the Roman numerals below from the smallest to the biggest. DCV, LXV, CDV",
+        "a": "CDV, DCV, LXV",
+        "b": "DCV, CDV, LXV",
+        "c": "LXV, CDV, DCV",
+        "d": "LXV, DCV, CDV",
+        "e": "DCV is 605, LXV is 65, CDV is 405"
+      },
+      "MT-Q23": {
+        "Question": "bzxtrvy2.55 x 0.5 =",
+        "a": "0.1275",
+        "b": "1.275",
+        "c": "12.75",
+        "d": "127.5"
+      },
+      "MT-Q24": {
+        "Question": "bzxtrvybus takes 2 hours to cover a distance of 96km. What is its average speed?",
+        "a": "16km/h",
+        "b": "48km/h",
+        "c": "94km/h",
+        "d": "98km/h",
+        "e": "divide distance by hours taken. Speed is distance covered in given time"
+      },
+      "MT-Q25": {
+        "Question": "bzxtrvyFind ⁴⁄₉ of 36.",
+        "a": "8",
+        "b": "16",
+        "c": "18",
+        "d": "81",
+        "e": "of means multiply. This is the same as ⁴⁄₉ x 36. So, Multiply the numerator x 36 and then divide by denominator, or divide 36 by denominator and multiply by the numerator"
+      },
+      "MT-Q26": {
+        "Question": "azxtrvyIf 7 packets of salt cost K49.00, what will be the cost of 13 packets of the same type?",
+        "a": "K91.00",
+        "b": "K69.00",
+        "c": "K62.00",
+        "d": "K29.00",
+        "e": "First find the price of each packet by dividing the given cost by the given quantity"
+      },
+      "MT-Q27": {
+        "Question": "dzxtrvyFind the difference between 4.326 and 2.24.",
+        "a": "6.566",
+        "b": "4.102",
+        "c": "2.186",
+        "d": "2.086"
+      },
+      "MT-Q28": {
+        "Question": "azxtrvyK25,000.00 was invested for 2 years at the rate of 4% per year. Calculate the simple interest.",
+        "a": " K2,000.00",
+        "b": "K2,500.00",
+        "c": "K3,495.00",
+        "d": "K3,125.00",
+        "e": "Interest every year is <sup>4</sup>/<sub>100</sub> x 25,000 = 1000. So for to years it will be K2000"
+      },
+      "MT-Q29": {
+        "Question": "bzxtrvyConvert 342 to base ten.",
+        "a": "72",
+        "b": "97",
+        "c": "242",
+        "d": "2,420",
+        "e": "Work from lefet to right. (2 x 1) + (4 x5) + (3 x 5 x 5)= 2 + 20 + 75"
+      },
+      "MT-Q30": {
+        "Question": "czxtrvyWhat is the average of 20°C, 38°C, 28°C, 32°C and 22°C?",
+        "a": "20°C",
+        "b": "22°C",
+        "c": "28°C",
+        "d": "38°C",
+        "e": "Add the temperatures and divide them by how many they are (20+38+28+32+22) divided by 5"
+      },
+      "MT-Q31": {
+        "Question": "czxtrvyThe mass of a piece of beef is 15.64kg. Express this mass to 1 decimal place.",
+        "a": "A 14.7 kg",
+        "b": "B 15.4 kg",
+        "c": "C 15.6 kg",
+        "d": "D 15.7 kg",
+        "e": "The nearest number on the right side of the position for first decmal place is 4 and it is less than 5, so drop the number. If it was 5 or greater you would increase the 6 by one to give 15.7"
+      },
+      "MT-Q32": {
+        "Question": "bzxtrvyEvaluate 5³.",
+        "a": "625",
+        "b": "125",
+        "c": "25",
+        "d": "5",
+        "e": "Power means multiply the number by itself by the given number of times. 5 x 5 x 5 (Three times)"
+      },
+      "MT-Q33": {
+        "Question": "azxtrvy8 boys can paint a hall in 6 hours. How many hours can 12 boys take to paint the same hall, if they work at the same rate?",
+        "a": "4",
+        "b": "6",
+        "c": "14",
+        "d": "18",
+        "e": "Find the total hours of work required to complete the work (6 x 8=48hrs) then divide by the new number of boys (48 divided by 12 gives 4)"
+      },
+      "MT-Q34": {
+        "Question": "azxtrvyFind the value of 12 x (15 +5).",
+        "a": "A 240",
+        "b": "B 185",
+        "c": "Cc 180",
+        "d": "D 60",
+        "e": "Use BODMAS. Calulate what is in the brackets before multiplying"
+      },
+      "MT-Q35": {
+        "Question": "czxtrvy105 people used a bus for a trip. If the bus carried 35 people only at a time, how many trips did it make?",
+        "a": "140",
+        "b": "70",
+        "c": "3",
+        "d": "35",
+        "e": "divide total number of people by the number of people that the bus carries"
+      },
+      "MT-Q36": {
+        "Question": "dzxtrvyMultiply 248 by 47.",
+        "a": " 10,556.",
+        "b": "10,656.",
+        "c": "11,556.",
+        "d": "11,656."
+      },
+      "MT-Q37": {
+        "Question": "bzxtrvyMumbi bought a dress at K400.00. She later sold it at K500.00. Calculate her percentage profit.",
+        "a": "20%",
+        "b": "25%",
+        "c": "30%",
+        "d": "35%",
+        "e": "Profit is  selling price  minus buying price. Percentage profit is profit divided by buying price x 100"
+      },
+      "MT-Q38": {
+        "Question": "azxtrvyThe shape of a water tank at Mrs Bupe’s farm is that of a cuboid. If its length is 14m, breadth 12m and height 10m, find the volume of the water tank.",
+        "a": "1,680m³",
+        "b": "1,678m³",
+        "c": "560m³",
+        "d": "108m³",
+        "e": "volume is height x width x length"
+      },
+      "MT-Q39": {
+        "Question": "azxtrvy A string which is 22.5m long is cut into smaller pieces each measuring 2.25m. How many pieces of such length can be cut from the string?",
+        "a": "10 pieces",
+        "b": "11 pieces",
+        "c": "20 pieces",
+        "d": "25 pieces",
+        "e": "divide the string by the lengthof each piece"
+      },
+      "MT-Q40": {
+        "Question": "czxtrvyRound off 24,178 to the nearest hundred.",
+        "a": "24,278",
+        "b": "24,208",
+        "c": "24,200",
+        "d": "24,180",
+        "e": "The nearest number on the right side of the position for hundreds is larger than 4 so increase the number in the position of hundreds by one"
+      },
+      "MT-Q41": {
+        "Question": "dzxtrvyFind the difference between 2203fᵢᵥₑ and 1104fᵢᵥₑ",
+        "a": "A 4001fᵢᵥₑ",
+        "b": "B 3214fᵢᵥₑ",
+        "c": "C 2114fᵢᵥₑ",
+        "d": "D 1044fᵢᵥₑ"
+      },
+      "MT-Q42": {
+        "Question": "bzxtrvyExpress 18 as a product of prime factors.",
+        "a": "1 x 2 x 3 x 3",
+        "b": " 2 x 3 x 3",
+        "c": "2 x 9",
+        "d": " 6 x 3",
+        "e": "A prime factor is a number that can only be divided by 1 and itself"
+      },
+      "MT-Q43": {
+        "Question": "czxtrvy-3 + (+12) =",
+        "a": "-15",
+        "b": "-9",
+        "c": " +9",
+        "d": "+18",
+        "e": "+(+) is the same as +, so this is the same as -3+12 or +12-3 or simply 12-3"
+      },
+      "MT-Q44": {
+        "Question": "dzxtrvyGiven that $1 is equal to K6.00, what is the price in Zambian Kwacha of a car costing $2,125?",
+        "a": "K2,125.00",
+        "b": "K12,650.00",
+        "c": "K12,720.00",
+        "d": "K12,750.00"
+      },
+      "MT-Q45": {
+        "Question": "azxtrvySolve the inequation 4x + 2 > 10.",
+        "a": "x > 2",
+        "b": " x < 2",
+        "c": "x > 4",
+        "d": " x > 8",
+        "e": "Subtract two from each side then divide each side by 4. Whatever is done on one side of the sign must be done to the other side"
+      },
+      "MT-Q46": {
+        "Question": "bzxtrvyIf set V = {1, 2, 3}, how many subsets does it have?",
+        "a": "9",
+        "b": "8",
+        "c": "6",
+        "d": "3",
+        "e": "The empty set and the full set and different combinations of the elements are all subsets. {},{1},{2},{3},{1,2},{1,3},{2,3},{1,2,3}"
+      },
+      "MD-Q47": {
+        "Question": "bzxtrvyMutale had K3,000.00 to spend. She bought two dresses at K500.00, two belts at K90.00, a handbag at K250.00 and a pair of shoes at K499.00. How much money did she remain with?",
+        "a": "K1,339.00",
+        "b": "K1,071.00",
+        "c": "K1,661.00",
+        "d": "K1,933.00",
+        "e": "subtract the total expenses from the total amount of money Mutale had."
+      }
+    },
+    "Diagram_based_questions": {
+      "MD-Q1": {
+        "Question": "bzxtrvyThe graph above shows the number of bags of beans sold by a man in five days. On which day did the man sell the highest number of bags of beans?",
+        "a": "Monday",
+        "b": "Tuesday",
+        "c": "Thursday",
+        "d": "Friday",
+        "diagram": "q3_md"
+      },
+      "MD-Q2": {
+        "Question": "dzxtrvyFind the correct answer",
+        "a": "336,238",
+        "b": "336,228",
+        "c": "335,238",
+        "d": "335,228",
+        "diagram": "q5_md"
+      },
+      "MD-Q3": {
+        "Question": "dzxtrvyLook at the diagram above. The mapping shown is a …",
+        "a": "A one to one.",
+        "b": "B one to three.",
+        "c": "C one to many.",
+        "d": "D many to one.",
+        "diagram": "q8_md"
+      },
+      "MD-Q4": {
+        "Question": "czxtrvyHow many lines of symmetry has the shape?",
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3",
+        "diagram": "q13_md"
+      },
+      "MD-Q5": {
+        "Question": "czxtrvyList the set A ∪ B in the Venn diagram above.",
+        "a": "{1, 2}",
+        "b": "{1, 2, 3, 4}",
+        "c": "{1, 2, 3, 4, 5, 6}",
+        "d": "{1, 2, 3,4, 5, 6, 7}",
+        "diagram": "q18_md"
+      },
+      "MD-Q6": {
+        "Question": "czxtrvyThe marked angle on the clock face above is called ...",
+        "a": "a right angle.",
+        "b": "an obtuse angle.",
+        "c": "an acute angle.",
+        "d": "a straight angle.",
+        "diagram": "q29_md"
+      },
+      "MD-Q7": {
+        "Question": "azxtrvyFind the answer",
+        "a": "1⅒",
+        "b": "³⁄₁₀",
+        "c": "⁴⁄₁₀",
+        "d": "⁴⁄₇",
+        "diagram": "q37_md"
+      },
+      "MD-Q8": {
+        "Question": "dzxtrvyThe shape above is a...",
+        "a": "square.",
+        "b": "quadrilateral.",
+        "c": "pentagon.",
+        "d": "hexagon.",
+        "diagram": "q40_md"
+      },
+      "MD-Q9": {
+        "Question": "bzxtrvyThe graph above shows the amount of rainfall recorded at a certain town from Monday to Friday. What is the difference between the highest and the lowest rainfall recorded?",
+        "a": "50mm",
+        "b": "40mm",
+        "c": "30mm",
+        "d": "20mm",
+        "e": "Highest is 50 and lowest is 10",
+        "diagram": "q57_md"
+      },
+      "MD-Q10": {
+        "Question": "dzxtrvyFind the circumference of the circle above. ( pi = 3.14)",
+        "a": "A 3.86cm",
+        "b": "B 10.14cm",
+        "c": "C 21.78cem",
+        "d": "D 21.98cm",
+        "diagram": "q59_md"
+      },
+      "MD-Q11": {
+        "Question": "azxtrvyThe shape above is a net of a ...",
+        "a": "A cube.",
+        "b": "B cuboid.",
+        "c": "C rectangle.",
+        "d": "D square.",
+        "e": "A net is the pattern you see after you open up an object",
+        "diagram": "q51_md"
+      },
+      "MD-Q12": {
+        "Question": "czxtrvyFind the answer for the above ",
+        "a": "230ₑᵢgₕₜ",
+        "b": "600ₑᵢgₕₜ",
+        "c": "700ₑᵢgₕₜ",
+        "d": "678ₑᵢgₕₜ",
+        "diagram": "q50_md"
+      }
+    }
+  }
+}
+

@@ -1,0 +1,497 @@
+{
+  "_SPECIAL_PAPER_1": {
+    "Ordering": {
+      "SPP-Q1": {
+        "Question": "azxtrvyWhich of the following will come FIRST if put in ALPHABETICAL ORDER?",
+        "a": "BLACK",
+        "b": "BLAME",
+        "c": "BLANK",
+        "d": "BLADE"
+      },
+      "SPP-Q2": {
+        "Question": "bzxtrvyIf the following words are put in ALPHABETICAL ORDER, which one will come LAST?",
+        "a": "BALL",
+        "b": "BURN",
+        "c": "BOLD",
+        "d": "BELL"
+      },
+      "SPP-Q3": {
+        "Question": "czxtrvyWhat is the SIXTH letter in the ALPHABET?",
+        "a": "c",
+        "b": "d",
+        "c": "F",
+        "d": "G"
+      },
+      "SPP-Q4": {
+        "Question": "bzxtrvyWhich word would come FOURTH if the words were put in ALPHABETICAL",
+        "a": "HARMFUL",
+        "b": "HARMONIZE",
+        "c": "HARMONIC",
+        "d": "HARMLESS"
+      },
+      "SPP-Q5": {
+        "Question": "dzxtrvyWhich letter in the word FAVOURITE would come THIRD if arranged in ALPHABETICAL ORDER?",
+        "a": "E",
+        "b": "F",
+        "c": "a",
+        "d": "I"
+      },
+      "SPP-Q6": {
+        "Question": "czxtrvyWhich word will come THIRD if arranged in ALPHABETICAL ORDER?",
+        "a": "SLATE",
+        "b": "SNAKE",
+        "c": "SPACE",
+        "d": "SPADE"
+      },
+      "SPP-Q7": {
+        "Question": "bzxtrvyWhich word would come FOURTH if the words were put in ALPHABETICAL",
+        "a": "HARMFUL",
+        "b": "HARMONIZE",
+        "c": "HARMONIC",
+        "d": "HARMLESS"
+      },
+      "SPP-Q8": {
+        "Question": "dzxtrvyWhich letter in the word FAVOURITE would come THIRD if arranged in ALPHABETICAL ORDER?",
+        "a": "E",
+        "b": "F",
+        "c": "a",
+        "d": "I"
+      },
+      "SPP-Q9": {
+        "Question": "czxtrvyWhich word will come FIRST if arranged in ALPHABETICAL ORDER?",
+        "a": "ATTAIN",
+        "b": "ATTEND",
+        "c": "ATTACK",
+        "d": "ATTEMPT"
+      },
+      "SPP-Q10": {
+        "Question": "bzxtrvyWhich word would come FIRST if the words were put in ALPHABETICAL",
+        "a": "APPLY",
+        "b": "APPLIED",
+        "c": "APPOINT",
+        "d": "APPRAISE"
+      },
+      "SPP-Q11": {
+        "Question": "dzxtrvyWhich letter in the word FAVOURITE would come THIRD if arranged in ALPHABETICAL ORDER?",
+        "a": "E",
+        "b": "F",
+        "c": "a",
+        "d": "I"
+      },
+      "SPP-Q12": {
+        "Question": "bzxtrvyWhich word will come SECOND if arranged in ALPHABETICAL ORDER?",
+        "a": "SLATE",
+        "b": "SNAKE",
+        "c": "SPACE",
+        "d": "SPADE"
+      }
+    },
+    "Patterns": {
+      "SPPP-Q1": {
+        "Question": "bzxtrvyWhich word will complete the pattern? BLOWING - WING , WEARING -RING, WALKING - ……",
+        "a": "GAIN",
+        "b": "KING",
+        "c": "LINK",
+        "d": "WALK"
+      },
+      "SPPP-Q2": {
+        "Question": "bzxtrvyComplete the pattern. BARREN ---- BAN,   SHAPE---- SHE,  EARNEST---- EAT,  DISEASE----",
+        "a": "ASE",
+        "b": "DIE",
+        "c": "SEA",
+        "d": "SEE"
+      },
+      "SPPP-Q3": {
+        "Question": "dzxtrvyDROP is to PICK as SLOW is to...",
+        "a": "COME.",
+        "b": "FAST.",
+        "c": "MOVE.",
+        "d": "RUN."
+      },
+      "SPPP-Q4": {
+        "Question": "dzxtrvyLEAD is to 1234 as DEAL is to ...",
+        "a": "1324.",
+        "b": "3214.",
+        "c": "3241.",
+        "d": "4231."
+      },
+      "SPPP-Q5": {
+        "Question": "dzxtrvyif COMES means 43218 then SOME means ...",
+        "a": "1238.",
+        "b": "2184.",
+        "c": "8312.",
+        "d": "8321."
+      },
+      "SPPP-Q6": {
+        "Question": "dzxtrvyComplete the following PATTERN. 10 --> E, 9-->D,  8-->__ ,  7-->___",
+        "a": "AC",
+        "b": "BC",
+        "c": "CA",
+        "d": "CB"
+      },
+      "SPPP-Q7": {
+        "Question": "azxtrvyEVEN is to ODD as NEVER Is to ...",
+        "a": "ALWAYS",
+        "b": "RARELY",
+        "c": "SELDOM",
+        "d": "SOMETIMES"
+      },
+      "SPPP-Q8": {
+        "Question": "dzxtrvyHELMET is to MINER as GOGGLES are to …",
+        "a": "CARPENTER.",
+        "b": "DOCTOR.",
+        "c": "SPECTATOR.",
+        "d": "WELDER"
+      },
+      "SPPP-Q9": {
+        "Question": "dzxtrvyWhich number completes the pattern? 2 6 18,  5 ___ 45",
+        "a": "3",
+        "b": "8",
+        "c": "10",
+        "d": "15"
+      },
+      "SPPP-Q10": {
+        "Question": "dzxtrvyWhich word completes the pattern? \nCHAIR \tAIR\nISLAND \tAND\nSADDLE \tSAD\nBIBLE \t_____",
+        "a": "HAIR",
+        "b": "SALE",
+        "c": "LAND",
+        "d": "BIB"
+      },
+      "SPPP-Q11": {
+        "Question": "bzxtrvyWhich word completes the pattern? \nELEPHANT \tTAN\nPAWPAWS \tSAW\nKILOGRAMS \tSAM\nHEART \t_____",
+        "a": "RAT",
+        "b": "TAR",
+        "c": "ART",
+        "d": "TEA"
+      },
+      "SPPP-Q12": {
+        "Question": "azxtrvyWhich letter completes the pattern? \nJ K L\nI J K\nH I ____",
+        "a": "J",
+        "b": "K",
+        "c": "L",
+        "d": "H"
+      }
+    },
+    "Logic": {
+      "SPPL-Q1": {
+        "Question": "bzxtrvyOn a fun day, Luke, Sara and Lisa played on the jumping castle. Chebo, Lisa and John went on a horse ride. Lisa, Luke and John played basketball. Who participated in ALL the games?",
+        "a": "John",
+        "b": "Lisa",
+        "c": "Luke",
+        "d": "Sara"
+      },
+      "SPPL-Q2": {
+        "Question": "czxtrvyTwo men went hunting. The first man killed 3 birds while the second man just killed 2. How many beaks did they have altogether?",
+        "a": "1",
+        "b": "4",
+        "c": "5",
+        "d": "6"
+      },
+      "SPPL-Q3": {
+        "Question": "dzxtrvyA box ALWAYS HAS …",
+        "a": "books.",
+        "b": "chalk",
+        "c": "litter",
+        "d": "shape."
+      },
+      "SPPL-Q4": {
+        "Question": "azxtrvyDavies likes sweets. Margaret and Justine both like sweets, but do not like popcorns. Kelvin and Davies both like popcorns. Who likes both sweets and popcorns?",
+        "a": "Davies",
+        "b": "Justine",
+        "c": "Kelvin",
+        "d": "Margaret"
+      },
+      "SPPL-Q5": {
+        "Question": "czxtrvyIf the letters DIP were taken out of the word DISPENSE, what word would be",
+        "a": "SEEN",
+        "b": "SEND",
+        "c": "SENSE",
+        "d": "SPEND"
+      },
+      "SPPL-Q6": {
+        "Question": "azxtrvyWhat must come next to complete the PATTERN? AZ 126, CX 324, EV 522, ____",
+        "a": "GT 720",
+        "b": "GT 918",
+        "c": "HS 617",
+        "d": "HS 819"
+      },
+      "SPPL-Q7": {
+        "Question": "czxtrvyA workshop ALWAYS HAS ...",
+        "a": "apparatus",
+        "b": "clothes",
+        "c": "tools",
+        "d": "utensils"
+      },
+      "SPPL-Q8": {
+        "Question": "bzxtrvyMr Chanda is a decade younger than Mr Phiri who is a century old. How old is Mr Chanda?",
+        "a": "10",
+        "b": "90",
+        "c": "100",
+        "d": "110"
+      },
+      "SPPL-Q9": {
+        "Question": "bzxtrvySibeso had K40. She bought a dress at K35. The shopkeeper increased her change by K6. How much change did she receive?",
+        "a": "K4",
+        "b": "K11",
+        "c": "K36",
+        "d": "K55"
+      },
+      "SPPL-Q10": {
+        "Question": "dzxtrvyLight ALWAYS HAS ...",
+        "a": "bulb.",
+        "b": "moon",
+        "c": "sun.",
+        "d": "rays."
+      },
+      "SPPL-Q11": {
+        "Question": "czxtrvyA piece of paper ALWAYS HAS ...",
+        "a": "lines.",
+        "b": "support.",
+        "c": "surface.",
+        "d": "words."
+      },
+      "SPPL-Q12": {
+        "Question": "czxtrvyMax had 4 ten kwacha notes, 2 five kwacha notes, and 5 one kwacha notes. How much did he have?",
+        "a": "K40",
+        "b": "K42",
+        "c": "K55",
+        "d": "K45"
+      },
+      "SPPL-Q13": {
+        "Question": "dzxtrvyA polygamist ALWAYS HAS ...",
+        "a": "a girlfriend.",
+        "b": "a husband.",
+        "c": "wives.",
+        "d": "a wife."
+      },
+      "SPPL-Q14": {
+        "Question": "czxtrvyRuth and Agatha are tall, Tracy and Rachael are fair. Ruth and Rachael are beautiful , who is both tall and beautiful?",
+        "a": "Agatha",
+        "b": "Rachael",
+        "c": "Ruth",
+        "d": "Tracy"
+      },
+      "SPPL-Q15": {
+        "Question": "bzxtrvyTwo girls get on a see-saw. Girl A goes up first and girl B goes up second. If the see-saw goes up nine times, which girl will be up on the ninth time?",
+        "a": "Girl B",
+        "b": "Girl A",
+        "c": "Both girls.",
+        "d": "No one"
+      },
+      "SPPL-Q16": {
+        "Question": "azxtrvyNalukui bought 20 apples. She gave six apples to her nephew Likando who took five more without Nalukui’s knowledge. How many apples did Likando now have?",
+        "a": "9 apples",
+        "b": "7 apples",
+        "c": "11 apples",
+        "d": "12 apples"
+      },
+      "SPPL-Q17": {
+        "Question": "dzxtrvyMwaba, Chewe, Cindy and Bwalya were friends who lived on the sixth floor on an upstairs building. One day the lift which took them up was not working and they had to use the stairs. Chewe arrived home before Cindy who arrived before Bwalya. Mwaba arrived after Chewe. Who arrived first?",
+        "a": "Mwaba",
+        "b": "Cindy",
+        "c": "Bwalya",
+        "d": "Chewe"
+      },
+      "SPPL-Q18": {
+        "Question": "czxtrvyA house of three bedrooms is occupied by a family of twelve. The first bedroom is occupied by the parents. The second bedroom is occupied by seven sons. The rest were girls who occupied the third bedroom. How many girls were they in the third bedroom?",
+        "a": "Four",
+        "b": "Two",
+        "c": "Three",
+        "d": "Nine"
+      },
+      "SPPL-Q19": {
+        "Question": "dzxtrvyThree of the following are ALIKE in some way. Which one is DIFFERENT?",
+        "a": "PYRAMID",
+        "b": "CONE",
+        "c": "CUBE",
+        "d": "AREA"
+      },
+      "SPPL-Q20": {
+        "Question": "azxtrvyIf 216534736 means CARPENTER, then 635317 stands for ...",
+        "a": "REPEAT",
+        "b": "CARPET",
+        "c": "REPENT",
+        "d": "CENTRE"
+      }
+    },
+    "Series": {
+      "SPPS-Q1": {
+        "Question": "czxtrvyComplete the following number series.  3869 ---> 8396,  7214 ---> 2741, 5638 --->",
+        "a": "3685",
+        "b": "6385",
+        "c": "6583",
+        "d": "8356"
+      },
+      "SPPS-Q2": {
+        "Question": "bzxtrvyWhat comes NEXT in the series? ZA, YB, XC, WD, ____",
+        "a": "TC.",
+        "b": "VE.",
+        "c": "WE.",
+        "d": "XD."
+      },
+      "SPPS-Q3": {
+        "Question": "azxtrvyWhich letters must be put in the space to complete the series? KL, JK, IJ, HI, ____",
+        "a": "GH",
+        "b": "HG",
+        "c": "HK",
+        "d": "KH"
+      },
+      "SPPS-Q4": {
+        "Question": "dzxtrvyWhat comes next in the series? 3,9,4, 16,5, 25,6 , ____.",
+        "a": "7",
+        "b": "30",
+        "c": "31",
+        "d": "36 "
+      },
+      "SPPS-Q5": {
+        "Question": "czxtrvyWhat comes next in the series? A7, G15, 023, ____",
+        "a": "032",
+        "b": "R31",
+        "c": "Y31",
+        "d": "Y32"
+      },
+      "SPPS-Q6": {
+        "Question": "czxtrvyIf STUVWXYU is TREASURE, then TUWS is ...",
+        "a": "BEST.",
+        "b": "RENT.",
+        "c": "REST.",
+        "d": "TEST."
+      },
+      "SPPS-Q7": {
+        "Question": "bzxtrvyWhat comes FIRST in the series? ___ , 96, 48, 24, 12,6, 3",
+        "a": "189.",
+        "b": "192.",
+        "c": "193.",
+        "d": "195."
+      },
+      "SPPS-Q8": {
+        "Question": "czxtrvyWhat comes FOURTH in the series? 84 , 91, 48, ___, 112",
+        "a": "101.",
+        "b": "103.",
+        "c": "105.",
+        "d": "107."
+      },
+      "SPPS-Q9": {
+        "Question": "dzxtrvyWhat comes NEXT in the series? 1 , 3, 6, 10, 15,___",
+        "a": "24",
+        "b": "11",
+        "c": "22",
+        "d": "21"
+      },
+      "SPPS-Q10": {
+        "Question": "bzxtrvyWhat number would complete the series? 213 , 324, 435, 546",
+        "a": "446",
+        "b": "546",
+        "c": "536.",
+        "d": "436."
+      },
+      "SPPS-Q11": {
+        "Question": "czxtrvyWhat comes NEXTT in the series? J-K, L-M, ___ ",
+        "a": "A-B",
+        "b": "N-P",
+        "c": "N-O",
+        "d": "P-Q"
+      }
+    },
+    "Comparisons": {
+      "SPPC-Q1": {
+        "Question": "bzxtrvyIn a dance competition, Chichi danced better than Charity and Violet. Mapalo danced better than Chichi. Who was the best dancer?",
+        "a": "Chichi",
+        "b": "Mapalo",
+        "c": "Violet",
+        "d": "Charity"
+      },
+      "SPPC-Q2": {
+        "Question": "azxtrvyBEDROOM is to SLEEP as KITCHEN is to …",
+        "a": "COOK.",
+        "b": "AT.",
+        "c": "SIT.",
+        "d": "WASH."
+      },
+      "SPPC-Q3": {
+        "Question": "bzxtrvyThree of the following are ALIKE is some way. Which one is DIFFERENT?",
+        "a": "Cute",
+        "b": "Awful",
+        "c": "Pretty",
+        "d": "Beautiful"
+      },
+      "SPPC-Q4": {
+        "Question": "dzxtrvyThree of the following are ALIKE in some way. Which one is DIFFERENT?",
+        "a": "Bush",
+        "b": "Forest",
+        "c": "Jungle",
+        "d": "Village"
+      },
+      "SPPC-Q5": {
+        "Question": "czxtrvyLIGHTENING is to LIGHT as THUNDER is to …",
+        "a": "CLOUD.",
+        "b": "RAINS.",
+        "c": "SOUND.",
+        "d": "STORM."
+      },
+      "SPPC-Q6": {
+        "Question": "dzxtrvyThree of the following are ALIKE in some way. Which one is DIFFERENT?",
+        "a": "Harare",
+        "b": "Luanda",
+        "c": "Nairobi",
+        "d": "Tanzania"
+      },
+      "SPPC-Q7": {
+        "Question": "czxtrvyThree of the following are ALIKE in some way. Which one is DIFFERENT?",
+        "a": "Clean",
+        "b": "Elegant",
+        "c": "Filthy",
+        "d": "Smart"
+      },
+      "SPPC-Q8": {
+        "Question": "azxtrvyCAPACITY is to LITRE as ANGLE is to...",
+        "a": "DEGREE",
+        "b": "HOURS.",
+        "c": "LENGTH",
+        "d": "VOLUME"
+      },
+      "SPPC-Q9": {
+        "Question": "dzxtrvyBORROW is to RECEIVE as LEND is to ee.",
+        "a": "ASK.",
+        "b": "BUY.",
+        "c": "FIND.",
+        "d": "GIVE."
+      },
+      "SPPC-Q10": {
+        "Question": "azxtrvyWhich one is DIFFERENT?",
+        "a": "Polygon",
+        "b": "Pentagon",
+        "c": "Heptagon",
+        "d": "Hexagon"
+      },
+      "SPPC-Q11": {
+        "Question": "bzxtrvyMIDDLE is to CENTRE as NEAR is to ...",
+        "a": "BOTTOM",
+        "b": "CLOSE.",
+        "c": "FAR.",
+        "d": "TOP."
+      },
+      "SPPC-Q12": {
+        "Question": "czxtrvyDIM is to BRIGHT as WONDER is to ...",
+        "a": "DUMP.",
+        "b": "FULL.",
+        "c": "KNOW.",
+        "d": "SMART."
+      },
+      "SPPC-Q13": {
+        "Question": "bzxtrvyThe same four letters appear in each of the following words. What word can be formed from these letters? ADVERTISE, FOREHEAD, DETERMINE, SURRENDER",
+        "a": "DEAR",
+        "b": "DEER",
+        "c": "NEED",
+        "d": "TEAR"
+      },
+      "SPPC-Q14": {
+        "Question": "dzxtrvyThree of the following are ALIKE in some way. Which one is DIFFERENT?",
+        "a": "ZEBRA",
+        "b": "RHINO",
+        "c": "LION",
+        "d": "DOG"
+      }
+    }
+  }
+}

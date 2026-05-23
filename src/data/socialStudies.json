@@ -1,0 +1,1723 @@
+{
+  "_SOCIAL_STUDIES": {
+    "World_Challenges": {
+      "WCHALL-Q1": {
+        "Question": "azxtrvy is caused by gases that come from factories and vehicles",
+        "a": "Acid rain",
+        "b": "Heavy rain",
+        "c": "Ice rain",
+        "d": "Little rain"
+      },
+      "WCHALL-Q2": {
+        "Question": "dzxtrvyFood shortages in some parts of the world are as a result of .",
+        "a": "employment",
+        "b": "good health",
+        "c": "good farming methods",
+        "d": "poor farming methods"
+      },
+      "WCHALL-Q3": {
+        "Question": "azxtrvyWhich of the following human activity cannot improve the environment?",
+        "a": "Burning grass",
+        "b": "ControLling soil erosion",
+        "c": "Planting flowers",
+        "d": "Planting trees"
+      },
+      "WCHALL-Q4": {
+        "Question": "dzxtrvyTaking care of drainages can help prevent floods and.",
+        "a": "development",
+        "b": "diseases",
+        "c": "drought",
+        "d": "pollution"
+      },
+      "WCHALL-Q5": {
+        "Question": "dzxtrvyWhich of the following wastes is not bio-degradable?",
+        "a": "Dung",
+        "b": "food scraps",
+        "c": "Leaves",
+        "d": "Plastics"
+      },
+      "WCHALL-Q6": {
+        "Question": "bzxtrvyWhich of the following factors does not influence settlement of people?",
+        "a": "Fertile soil",
+        "b": "Good climate",
+        "c": "Poverty",
+        "d": "Security"
+      },
+      "WCHALL-Q7": {
+        "Question": "azxtrvyWhich of the following is an effect of rapid population growth?",
+        "a": "Deforestation",
+        "b": "Food security",
+        "c": "Good medical facilities",
+        "d": "Improved education"
+      },
+      "WCHALL-Q8": {
+        "Question": "bzxtrvyWhen we are told not to throw rubbish in the streets, at school, in the bush or in the river we are asked to ... the environment",
+        "a": "destroy ",
+        "b": "protect ",
+        "c": "study ",
+        "d": "work on "
+      },
+      "WCHALL-Q9": {
+        "Question": "czxtrvyThe youth can fight HIV and AIDS by ..",
+        "a": "attending traditional ceremonies",
+        "b": "attending youth conferences",
+        "c": "practicing abstinence",
+        "d": "taking curative pills"
+      },
+      "WCHALL-Q10": {
+        "Question": "azxtrvyWhen there is little or no rain in a region, we say the region has ..",
+        "a": "drought",
+        "b": "famine",
+        "c": "flood",
+        "d": "humidity"
+      },
+      "WCHALL-Q11": {
+        "Question": "bzxtrvyTo avoid soil erosion, all people and community stakeholders should continue ..",
+        "a": "ploughing along the slope",
+        "b": "planting more plants and grass",
+        "c": "cutting down the trees",
+        "d": "burning the grass early"
+      },
+      "WCHALL-Q12": {
+        "Question": "czxtrvyThe world experiences a rise in temperature resulting in ..",
+        "a": "chlorofluoro carbons",
+        "b": "fossil fuels",
+        "c": "global warming",
+        "d": "refrigeration system"
+      },
+      "WCHALL-Q13": {
+        "Question": "dzxtrvyIlliteracy is a serious problem in ..",
+        "a": "all countries",
+        "b": "countries in Europe",
+        "c": "developed countries",
+        "d": "developing countries"
+      },
+      "WCHALL-Q14": {
+        "Question": "azxtrvy Which of the following is not a natural disaster?",
+        "a": "Bomb explosion",
+        "b": "Earthquake",
+        "c": "Famine",
+        "d": " Floods"
+      },
+      "WCHALL-Q15": {
+        "Question": "azxtrvyWild animals are protected from poachers when they five in ..",
+        "a": "game reserves",
+        "b": "islands",
+        "c": "swamps",
+        "d": "thick forests"
+      },
+      "WCHALL-Q16": {
+        "Question": "czxtrvyThe Ministry of Health helps to prevent diseases through ... programmes",
+        "a": "agriculture",
+        "b": "commercial",
+        "c": "immunization",
+        "d": "maintenance"
+      },
+      "WCHALL-Q17": {
+        "Question": "bzxtrvyKwashiorkor can be caused by..",
+        "a": "lack of vitamin A,",
+        "b": "Lack of proteins",
+        "c": "mosquitoes",
+        "d": "tsetse flies"
+      },
+      "WCHALL-Q18": {
+        "Question": "azxtrvyWhat does the word afforestation mean?",
+        "a": "Cutting down of trees",
+        "b": "Planting of trees",
+        "c": "Transformation of trees",
+        "d": "Transpiration of trees"
+      },
+      "WCHALL-Q19": {
+        "Question": "bzxtrvy The HIV virus attacks the ...system",
+        "a": "circulatory",
+        "b": "Immune",
+        "c": "Nervous",
+        "d": "respiratory"
+      }
+    },
+    "Farming": {
+      "FARMING- Q1": {
+        "Question": "dzxtrvyWhich of the following provinces is Zambia's highest hardwood timber producer?",
+        "a": "Central",
+        "b": "Eastern",
+        "c": "Southern",
+        "d": "Western"
+      },
+      "FARMING-Q2": {
+        "Question": "azxtrvyCrop rotation is important because it ..",
+        "a": " improves soil fertility",
+        "b": "reduces soil fertility",
+        "c": "reduces soil structure",
+        "d": "strengthens crops"
+      },
+      "FARMING-Q3": {
+        "Question": "azxtrvyFood preservation is an important practice in a community because it improves ..",
+        "a": "food security",
+        "b": "insecurity of food",
+        "c": "production of food",
+        "d": "shortage of food"
+      },
+      "FARMING-Q4": {
+        "Question": "dzxtrvyThree of the following are environmental factors influencing world farming systems. Which one is not? ",
+        "a": "Soil ",
+        "b": "Slope ",
+        "c": "Climate ",
+        "d": "Capital "
+      },
+      "FARMING-Q5": {
+        "Question": "czxtrvyWhich farmers have a characteristic of moving from one place to another looking for better land and pasture for their animals? ",
+        "a": "Commercial livestock ranchers ",
+        "b": "Market gardeners ",
+        "c": "Nomadic pastoralist farmers ",
+        "d": "Subsistence farmers "
+      },
+      "FARMING-Q7": {
+        "Question": "azxtrvyIn the chitemene system of farming, the plant nutrients in the soil are provided by ... ",
+        "a": "ash from burnt trees",
+        "b": "fertilizer from roots",
+        "c": "grass hoed into moulds",
+        "d": "manure from leaves"
+      },
+      "FARMING-Q8": {
+        "Question": "azxtrvyPasteurized milk is one which has ..",
+        "a": "been boiled before storage",
+        "b": "been filtered before storage",
+        "c": "the fat removed before storage",
+        "d": "turned into sour milk before storage"
+      },
+      "FARMING-Q9": {
+        "Question": "bzxtrvyWhy is it difficult to grow apples and oranges in Zambia?",
+        "a": "The weather is suitable",
+        "b": "The weather is not suitable",
+        "c": "Seeds are not easy to get",
+        "d": "Chemicals are not available"
+      },
+      "FARMING-Q10": {
+        "Question": "czxtrvyHigh food production makes ... nation",
+        "a": "a Christian",
+        "b": "a good",
+        "c": "a healthy",
+        "d": "an educated"
+      },
+      "FARMING-Q11": {
+        "Question": "azxtrvyRice grows well in areas with ..",
+        "a": "high rainfall",
+        "b": "dry sandy soils",
+        "c": "litthe rainfall",
+        "d": "dry loamy soil"
+      },
+      "FARMING-Q12": {
+        "Question": "czxtrvy... farming is the keeping of domestic birds for eggs and meat",
+        "a": "Commercial",
+        "b": "Dairy",
+        "c": "Poultry",
+        "d": "Subsistence"
+      },
+      "FARMING-Q13": {
+        "Question": "dzxtrvyCommercial farmers keep livestock for ..",
+        "a": "food",
+        "b": "ploughing",
+        "c": "prestige,",
+        "d": "sale"
+      },
+      "FARMING-Q14": {
+        "Question": "dzxtrvy People who move from one place to another in search of food, water and pastures for their animals practice ..",
+        "a": "citrus farming",
+        "b": "livestock ranching",
+        "c": "mixed farming",
+        "d": "nomadic pastoralism"
+      },
+      "FARMING-Q15": {
+        "Question": "dzxtrvyEnvironmental factors affecting farming systems include ..",
+        "a": "pests, diseases and positions",
+        "b": "soil, climate and transport",
+        "c": "soil, climate, pests and diseases",
+        "d": "soil, slope and traditional customs"
+      },
+      "FARMING-Q16": {
+        "Question": "azxtrvySugar canes grow well in regions with ..",
+        "a": "high rainfall",
+        "b": "high temperature",
+        "c": "low rainfall",
+        "d": "low temperature"
+      },
+      "FARMING-Q17": {
+        "Question": "azxtrvySugar is a source of ..",
+        "a": "carbohydrates",
+        "b": "energy",
+        "c": "fats",
+        "d": "proteins"
+      }
+    },
+    "Transport_and_Communication": {
+      "COMM- Q1": {
+        "Question": "azxtrvyWhich of the following is the safest way of crossing the road?",
+        "a": "Crossing the road on the Zebra crossing",
+        "b": "Ignoring road and safety regulations",
+        "c": "Running while crossing the road",
+        "d": "Walking very fast when crossing the road"
+      },
+      "COMM-Q2": {
+        "Question": "bzxtrvyThe safest way of transporting oil from Tanzania to Zambia is by.",
+        "a": "plane",
+        "b": "pipeline",
+        "c": "tankers",
+        "d": "train"
+      },
+      "COMM-Q3": {
+        "Question": "bzxtrvyTimber is transported from Mulobezi to Livingstone by ",
+        "a": "air",
+        "b": "railway",
+        "c": "road",
+        "d": "water"
+      },
+      "COMM-Q4": {
+        "Question": "czxtrvyWhich of the following is the quickest way to send a message?",
+        "a": "Fax",
+        "b": "Letter",
+        "c": "Electronic messaging",
+        "d": "Telegram"
+      },
+      "COMM-Q5": {
+        "Question": "azxtrvyA cyclist should wear reflective clothes at night to be",
+        "a": "easily noticed",
+        "b": "protected from rays",
+        "c": "swift on the road",
+        "d": "smart on the road"
+      },
+      "COMM-Q6": {
+        "Question": "dzxtrvyRoad accidents can be prevented by ..",
+        "a": "driving at night",
+        "b": "overloading vehicles",
+        "c": "pedestrians crossing roads anywhere",
+        "d": "having road worthy vehicles"
+      },
+      "COMM-Q7": {
+        "Question": "azxtrvyWhen crossing the road one must look right, left and right again. This is done in order to ..",
+        "a": "avoid being run over",
+        "b": "make peace with drivers",
+        "c": "please other road users",
+        "d": "waste some time on the road"
+      },
+      "COMM-Q8": {
+        "Question": "bzxtrvyImproved communication and transport has helped Zambia to ..",
+        "a": "increase road problems",
+        "b": "improve its trade",
+        "c": "discourage trade",
+        "d": "discourage mining"
+      },
+      "COMM-Q9": {
+        "Question": "bzxtrvyTransport in Zambia is mostly by road and ..",
+        "a": " air",
+        "b": "rail",
+        "c": "river",
+        "d": "water"
+      },
+      "COMM-Q10": {
+        "Question": "czxtrvyWhich of the following is used as a means of communication?",
+        "a": "Aeroplane",
+        "b": "Bus",
+        "c": "Phone",
+        "d": "Train"
+      },
+      "COMM-Q11": {
+        "Question": "azxtrvyWhat type of engine did the first train use?",
+        "a": " Coal and steam",
+        "b": " Coal and diesel",
+        "c": "Diesel and petrol",
+        "d": "Petrol and steam"
+      },
+      "COMM-Q12": {
+        "Question": "dzxtrvyThe animal mostly used for transport in rural areas in Zambia is ..",
+        "a": "a goat",
+        "b": "a horse",
+        "c": "an elephant",
+        "d": "an ox"
+      },
+      "COMM-Q13": {
+        "Question": "czxtrvyCommunication is the ... of messages",
+        "a": "posting and faxing",
+        "b": "receiving and storing",
+        "c": "sending and receiving",
+        "d": "typing and phoning"
+      },
+      "COMM-Q14": {
+        "Question": "dzxtrvyzxtrvyPeople of the Bangweulu swamps use ... transport",
+        "a": "air and rall",
+        "b": "land and rail",
+        "c": "water and air",
+        "d": "water and land"
+      },
+      "COMM-Q15": {
+        "Question": "czxtrvyThe zebra crossing is the safer place to cross the road because ..",
+        "a": "motorists allow pedestrians to cross only at night",
+        "b": "motorists stop to allow animals to cross",
+        "c": "motorists stop to allow pedestrians to cross",
+        "d": "pedestrians wait for the animals to cross"
+      }
+    },
+    "Cultural_Celebrations_and_Festivals": {
+      "CULT- Q1": {
+        "Question": "czxtrvyThe Ncwala ceremony is performed by the",
+        "a": "Bemba",
+        "b": "Lenje",
+        "c": "Ngoni",
+        "d": "Swaka"
+      },
+      "CULT-Q2": {
+        "Question": "bzxtrvyZambia has different traditional ceremonies because of many.",
+        "a": "economic activities",
+        "b": "ethnic groups",
+        "c": "religions",
+        "d": "tourists"
+      },
+      "CULT-Q3": {
+        "Question": "azxtrvyThe cultural site found in Siavonga is ..",
+        "a": "Ingombe Ilede",
+        "b": "Isamupati",
+        "c": "Malende",
+        "d": "Mosi-o-tunya"
+      },
+      "CULT-Q4": {
+        "Question": "czxtrvyPeople have traditional ceremonies in order to..",
+        "a": "have many children",
+        "b": "kill their animals",
+        "c": "promote their culture",
+        "d": "scare enemies"
+      },
+      "CULT-Q5": {
+        "Question": "azxtrvyIn Zambian tradition, children learn from ...about the community.",
+        "a": "elders",
+        "b": "priests",
+        "c": "their cousins",
+        "d": "pastors"
+      },
+      "CULT-Q6": {
+        "Question": "czxtrvyIn traditional Zambia, marriages were arranged by ...",
+        "a": "teachers",
+        "b": "farmers",
+        "c": "elders",
+        "d": "priests"
+      },
+      "CULT-Q7": {
+        "Question": "azxtrvyWhich one of the following methods is not used to select traditional leaders in Zambia?",
+        "a": "village elections",
+        "b": "Heirs are picked from within a family line",
+        "c": "Village elders agree on a suitable candidate from the family or clan",
+        "d": "The eldest son or another appointed heir may inherit the title after the death of a leader"
+      },
+      "CULT-Q8": {
+        "Question": "bzxtrvyIn Zambian tradition, an uncle is...",
+        "a": "Any elderly man",
+        "b": "Your mother's brother",
+        "c": "Your father's brother",
+        "d": "An educated man"
+      },
+      "CULT-Q9": {
+        "Question": "azxtrvyIn Zambian tradition, the male children of your mother's sister are your...",
+        "a": "brothers",
+        "b": "sisters",
+        "c": "uncles",
+        "d": "cousins"
+      },
+      "CULT-Q10": {
+        "Question": "azxtrvyIn Zambian tradition, the male children of your father's brother are your...",
+        "a": "brothers",
+        "b": "sisters",
+        "c": "uncles",
+        "d": "cousins"
+      },
+      "CULT-Q11": {
+        "Question": "dzxtrvyIn Zambian tradition, the female children of your mother's brother are your...",
+        "a": "brothers",
+        "b": "sisters",
+        "c": "uncles",
+        "d": "cousins"
+      },
+      "CULT-Q12": {
+        "Question": "bzxtrvyIn Zambian tradition, the female children of your father's brother are your...",
+        "a": "brothers",
+        "b": "sisters",
+        "c": "uncles",
+        "d": "cousins"
+      }
+    },
+    "Geography": {
+      "GEO- Q1": {
+        "Question": "dzxtrvyWhat is the largest river in Zambia?",
+        "a": "Kafue",
+        "b": "Luangwa",
+        "c": "Luapula",
+        "d": "Zambezi"
+      },
+      "GEO-Q2": {
+        "Question": "bzxtrvyTemperature is measured in",
+        "a": "centimetres",
+        "b": "degrees Celsius",
+        "c": "kilometres",
+        "d": "millilitres"
+      },
+      "GEO-Q3": {
+        "Question": "azxtrvy is the moisture content of the atmosphere",
+        "a": "Humidity",
+        "b": "Pressure",
+        "c": "Sunshine",
+        "d": "Temperature"
+      },
+      "GEO-Q4": {
+        "Question": "azxtrvyZambia experiences cool and dry season from",
+        "a": "May to August",
+        "b": "January to June",
+        "c": "September to November",
+        "d": "December to April"
+      },
+      "GEO-Q5": {
+        "Question": "czxtrvyThe Copperbelt is one of the most densely populated areas of Zambia because of ..",
+        "a": "sugar cane plantation",
+        "b": "fertile soiis",
+        "c": "copper mining industry",
+        "d": "banana plantation industry"
+      },
+      "GEO-Q6": {
+        "Question": "dzxtrvyThe coldness and hotness of a place is ..",
+        "a": "cloud cover",
+        "b": "humidity",
+        "c": "rainfall",
+        "d": "temperature"
+      },
+      "GEO-Q7": {
+        "Question": "azxtrvyWhich major components make up the environment? ",
+        "a": "land, water and air",
+        "b": "land, water and trees",
+        "c": "trees, water and sand",
+        "d": "water, air and trees"
+      },
+      "GEO-Q8": {
+        "Question": "dzxtrvyNatural things in the environment are called ..",
+        "a": "cultural features",
+        "b": "deserts",
+        "c": "escarpment",
+        "d": "physical features"
+      },
+      "GEO-Q9": {
+        "Question": "czxtrvyWhich of the following is a plateau found in Zambia?",
+        "a": "Kafue",
+        "b": "Muchinga",
+        "c": "Nyika",
+        "d": "Zambezi"
+      },
+      "GEO-Q10": {
+        "Question": "bzxtrvyThere are ... continents in the world,",
+        "a": "5",
+        "b": "7",
+        "c": "8",
+        "d": "9"
+      },
+      "GEO-Q11": {
+        "Question": "dzxtrvyClimate refers to weather patterns experienced ..",
+        "a": "during a week,",
+        "b": "during the day",
+        "c": "over a month",
+        "d": "over a long period of time"
+      },
+      "GEO-Q12": {
+        "Question": "azxtrvyWhich instrument is used to measure air pressure?",
+        "a": "Barometer",
+        "b": "Hygrometer",
+        "c": "Anemometer",
+        "d": "Thermometer"
+      },
+      "GEO-Q13": {
+        "Question": "bzxtrvyWhich instrument is used to measure humidity?",
+        "a": "Barometer",
+        "b": "Hygrometer",
+        "c": "Anemometer",
+        "d": "Thermometer"
+      },
+      "GEO-Q14": {
+        "Question": "czxtrvyWhich instrument is used to measure wind speed?",
+        "a": "Barometer",
+        "b": "Hygrometer",
+        "c": "Anemometer",
+        "d": "Thermometer"
+      },
+      "GEO-Q15": {
+        "Question": "azxtrvyWhich instrument is used to measure rainfall?",
+        "a": "Rain gauge",
+        "b": "Hygrometer",
+        "c": "Anemometer",
+        "d": "Thermometer"
+      },
+      "GEO-Q16": {
+        "Question": "dzxtrvyWhich instrument is used to measure temperature?",
+        "a": "Barometer",
+        "b": "Hygrometer",
+        "c": "Anemometer",
+        "d": "Thermometer"
+      },
+      "GEO-Q17": {
+        "Question": "czxtrvyHow many countries do share the lake Tanganyika?",
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "5"
+      },
+      "GEO-Q18": {
+        "Question": "azxtrvyWhich country does not border the lake marked Tanganyika?",
+        "a": "Rwanda",
+        "b": "Congo DR",
+        "c": "Tanzania",
+        "d": "Burundi"
+      }
+    },
+    "History": {
+      "HIST- Q1": {
+        "Question": "azxtrvyIn the Stone Age, people lived in",
+        "a": "caves",
+        "b": "houses",
+        "c": "huts",
+        "d": "stones"
+      },
+      "HIST-Q2": {
+        "Question": "dzxtrvyLusaka City was named after the headman called ..",
+        "a": "Gawa Undi",
+        "b": "Mpezeni",
+        "c": "Mukamambo II",
+        "d": "Mwalusaka"
+      },
+      "HIST-Q3": {
+        "Question": "bzxtrvyThe role of men in the iron age period was ..",
+        "a": "cooking",
+        "b": "drawing water",
+        "c": "making tools",
+        "d": "weaving"
+      },
+      "HIST-Q4": {
+        "Question": "czxtrvyWho was the third republican president of Zambia?",
+        "a": "Hakainde Hichilema",
+        "b": "Fredrick Chiluba",
+        "c": "Levy Mwanawasa",
+        "d": "Kenneth Kaunda"
+      },
+      "HIST-Q5": {
+        "Question": "bzxtrvyWho was the second republican president of Zambia?",
+        "a": "Hakainde Hichilema",
+        "b": "Fredrick Chiluba",
+        "c": "Levy Mwanawasa",
+        "d": "Kenneth Kaunda"
+      },
+      "HIST-Q6": {
+        "Question": "dzxtrvyWho was the first republican president of Zambia?",
+        "a": "Hakainde Hichilema",
+        "b": "Fredrick Chiluba",
+        "c": "Levy Mwanawasa",
+        "d": "Kenneth Kaunda"
+      },
+      "HIST-Q7": {
+        "Question": "dzxtrvyWho was the fourth republican president of Zambia?",
+        "a": "Hakainde Hichilema",
+        "b": "Fredrick Chiluba",
+        "c": "Levy Mwanawasa",
+        "d": "Rupiah Banda"
+      },
+      "HIST-Q8": {
+        "Question": "azxtrvyWho was the fifth republican president of Zambia?",
+        "a": "Michael Sata",
+        "b": "Fredrick Chiluba",
+        "c": "Levy Mwanawasa",
+        "d": "Kenneth Kaunda"
+      },
+      "HIST-Q9": {
+        "Question": "dzxtrvyHow many provinces did Zambia have at independence?",
+        "a": "10",
+        "b": "9",
+        "c": "8",
+        "d": "4"
+      },
+      "HIST-Q10": {
+        "Question": "bzxtrvyWhich one of the following was a province of Zambia at independence?",
+        "a": "Muchinga province",
+        "b": "Lusaka province",
+        "c": "Copperbelt province",
+        "d": "Eastern province"
+      },
+      "HIST-Q11": {
+        "Question": "bzxtrvyWhich one of the following was NOT a province of Zambia at independence?",
+        "a": "Northern province",
+        "b": "Lusaka province",
+        "c": "Western province",
+        "d": "Eastern province"
+      },
+      "HIST-Q12": {
+        "Question": "dzxtrvyWhich one of the following was a province of Zambia at independence?",
+        "a": "Northwestern province",
+        "b": "Lusaka province",
+        "c": "Central province",
+        "d": "Southern province"
+      },
+      "HIST-Q13": {
+        "Question": "bzxtrvyFrom which provinces was Central province carved out in 1973?",
+        "a": "Northwestern and Copperbelt provinces",
+        "b": "Eastern and Northern provinces",
+        "c": "Southern and Western provinces",
+        "d": "Eastern and Southern provinces"
+      },
+      "HIST-Q14": {
+        "Question": "bzxtrvyFrom which province was Northwestern province carved out in 1976?",
+        "a": "Copperbelt province ",
+        "b": "Northern province",
+        "c": "Western province",
+        "d": "Southern province"
+      }
+    },
+    "Governance": {
+      "GOV-Q1": {
+        "Question": "czxtrvyZambia has... provinces",
+        "a": "8",
+        "b": "9",
+        "c": "10",
+        "d": "12"
+      },
+      "GOV-Q2": {
+        "Question": "dzxtrvyGeneral elections in Zambia are held every after...years",
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "5"
+      },
+      "GOV-Q3": {
+        "Question": "czxtrvyThe political head of a municipal or city council is called ..",
+        "a": "Council Secretary",
+        "b": "Town Clerk",
+        "c": "Mayor",
+        "d": "Council Chairperson"
+      },
+      "GOV-Q4": {
+        "Question": "bzxtrvyWhich symbol on the Zambia Coat of Arms represents the freedom and the ability to rise above national problems",
+        "a": "The man",
+        "b": "The Eagle",
+        "c": "The woman",
+        "d": "The Zebra"
+      },
+      "GOV-Q5": {
+        "Question": "bzxtrvyA bad leader is the one that .",
+        "a": "always leads by example",
+        "b": "makes decisions alone",
+        "c": "is tolerant and respectful to the people",
+        "d": "solves misunderstandings"
+      },
+      "GOV-Q6": {
+        "Question": "bzxtrvyWhich ministry is responsible for issuing birth records?",
+        "a": "Education",
+        "b": "Health",
+        "c": "Home Affairs",
+        "d": "Labour"
+      },
+      "GOV-Q7": {
+        "Question": "bzxtrvyWhich symbols on the Zambia Coat of Arms represents the labour of the people agriculture and mining?",
+        "a": "The man and woman",
+        "b": "The pick and hoe",
+        "c": "The wavy lines and the Zebra",
+        "d": "The man and the hoe"
+      },
+      "GOV-Q8": {
+        "Question": "bzxtrvyThe administrative head of a municipal or city council is called ..",
+        "a": "Council Secretary",
+        "b": "Town Clerk",
+        "c": "Mayor",
+        "d": "Council Chairperson"
+      },
+      "GOV-Q9": {
+        "Question": "dzxtrvyWhich symbol on the Zambia Coat of Arms represents tourism?",
+        "a": "Eagle",
+        "b": "Hoe",
+        "c": "Man",
+        "d": "Zebra"
+      },
+      "GOV-Q10": {
+        "Question": "bzxtrvyThe ... guards against corruption in Zambia",
+        "a": "Anti-Drug Commission",
+        "b": "Anti-Corruption Commission",
+        "c": "Anti-Human Rights",
+        "d": "Police Force"
+      },
+      "GOV-Q11": {
+        "Question": "bzxtrvyZambia has... organs of government",
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "5"
+      },
+      "GOV-Q12": {
+        "Question": "bzxtrvyThe wavy black and white lines on the Zambia Coat of Arms represents..",
+        "a": "Poverty",
+        "b": "The Victoria Falls",
+        "c": "Heat",
+        "d": "Rivers"
+      },
+      "GOV-Q13": {
+        "Question": "bzxtrvyA bad leader is the one that .",
+        "a": "always leads by example",
+        "b": "makes decisions alone",
+        "c": "is tolerant and respectful to the people",
+        "d": "solves misunderstandings"
+      },
+      "GOV-Q14": {
+        "Question": "bzxtrvyWhich ministry is responsible for issuing birth records?",
+        "a": "Education",
+        "b": "Health",
+        "c": "Home Affairs",
+        "d": "Labour"
+      },
+      "GOV-Q15": {
+        "Question": "bzxtrvyThe Chairperson of the National Assembly is the ",
+        "a": "Clerk",
+        "b": "Chief Justice",
+        "c": "Chief Whip",
+        "d": "Speaker"
+      },
+      "GOV-Q16": {
+        "Question": "azxtrvyWhat is the provincial headquarters of Copperbelt Province?",
+        "a": "Ndola",
+        "b": "Mongu",
+        "c": "Solwezi",
+        "d": "Zambezi"
+      },
+      "GOV-Q17": {
+        "Question": "czxtrvyWhat is the provincial headquarters of Lusaka Province?",
+        "a": "Chilanga",
+        "b": "Kafue",
+        "c": "Lusaka",
+        "d": "Chongwe"
+      },
+      "GOV-Q18": {
+        "Question": "czxtrvyWhat is the provincial headquarters of Southern Province?",
+        "a": "Livingstone",
+        "b": "Choma",
+        "c": "Mazabuka",
+        "d": "Kalomo"
+      },
+      "GOV-Q19": {
+        "Question": "dzxtrvyWhat is the provincial headquarters of Eastern Province?",
+        "a": "Petauke",
+        "b": "Lundazi",
+        "c": "Solwezi",
+        "d": "Chipata"
+      },
+      "GOV-Q20": {
+        "Question": "czxtrvyWhat is the provincial headquarters of Central Province?",
+        "a": "Mkushi",
+        "b": "Kapiri Mposhi",
+        "c": "Kabwe",
+        "d": "Serenje"
+      },
+      "GOV-Q21": {
+        "Question": "azxtrvyWhat is the provincial headquarters of Luapula Province?",
+        "a": "Mansa",
+        "b": "Mongu",
+        "c": "Solwezi",
+        "d": "Zambezi"
+      },
+      "GOV-Q22": {
+        "Question": "bzxtrvyWhat is the provincial headquarters of Muchinga Province?",
+        "a": "Mansa",
+        "b": "Chinsali",
+        "c": "Solwezi",
+        "d": "Zambezi"
+      },
+      "GOV-Q23": {
+        "Question": "czxtrvyWhat is the provincial headquarters of North-Western Province?",
+        "a": "Mansa",
+        "b": "Mongu",
+        "c": "Solwezi",
+        "d": "Zambezi"
+      },
+      "GOV-Q24": {
+        "Question": "bzxtrvyWhich symbol on the Zambia Coat of Arms represents agriculture?",
+        "a": "Eagle",
+        "b": "Hoe",
+        "c": "Man",
+        "d": "Zebra"
+      },
+      "GOV-Q25": {
+        "Question": "bzxtrvyWhat is the provincial headquarters of Western Province?",
+        "a": "Mansa",
+        "b": "Mongu",
+        "c": "Solwezi",
+        "d": "Zambezi"
+      },
+      "GOV-Q26": {
+        "Question": "czxtrvyWhat is the provincial headquarters of Northern Province?",
+        "a": "Mansa",
+        "b": "Mongu",
+        "c": "Kasama",
+        "d": "Zambezi"
+      },
+      "GOV-Q27": {
+        "Question": "czxtrvyBoth Nelson Mandela who was the first president of South Africa and the late President Levy Mwanawasa were - - - by profession",
+        "a": "accountants",
+        "b": "doctors",
+        "c": "lawyers",
+        "d": "teachers"
+      },
+      "GOV-Q28": {
+        "Question": "bzxtrvyThe head of the British government is the ..",
+        "a": " President",
+        "b": "Prime Minister",
+        "c": "Queen",
+        "d": "Secretary of Defence"
+      },
+      "GOV-Q29": {
+        "Question": "dzxtrvyWhich one is not one of the functions of the local councils in Zambia?",
+        "a": "Running parks and gardens",
+        "b": "Maintaining community roads",
+        "c": "Making By-Laws",
+        "d": "Sending people to jail"
+      },
+      "GOV-Q30": {
+        "Question": "azxtrvyWho was elected Secretary General of the United Nations Organisation ",
+        "a": "KoffiAnnan",
+        "b": "George Bush",
+        "c": "Barack Obama",
+        "d": "Ban Kim-moon"
+      },
+      "GOV-Q31": {
+        "Question": "bzxtrvyPeople who deliberately destroy public property should be ... :",
+        "a": "prayed for at church",
+        "b": "reported to the police",
+        "c": "stoned to death",
+        "d": "taken to the clinic"
+      },
+      "GOV-Q32": {
+        "Question": "bzxtrvyThe rule of the people by the peopie is called ..",
+        "a": "Autocracy",
+        "b": "Democracy",
+        "c": " Dictatorship",
+        "d": "Monarchy"
+      },
+      "GOV-Q33": {
+        "Question": "bzxtrvyPopuluation census Is always conducted every after ... years",
+        "a": "5",
+        "b": "10",
+        "c": "15",
+        "d": "20"
+      },
+      "GOV-Q34": {
+        "Question": "dzxtrvyThe Anti-Corruption Commission fights corruption through ..",
+        "a": "encouraging people to receive bribes",
+        "b": "killing people who practice corruption",
+        "c": "rewarding people who receive bribes",
+        "d": "teaching people on the dangers of corruption"
+      },
+      "GOV-Q35": {
+        "Question": "czxtrvyZambia celebrated its Golden Jubilee in ..",
+        "a": "2012",
+        "b": "2013,",
+        "c": "2014",
+        "d": "2015"
+      },
+      "GOV-Q36": {
+        "Question": "bzxtrvyThe provincial headquarters of Southern Province was moved from Livingstone to ..",
+        "a": "Choma",
+        "b": "Kalomo",
+        "c": "Mazabuka",
+        "d": "Monze"
+      },
+      "GOV-Q37": {
+        "Question": "czxtrvyConstituencies are divided into ..",
+        "a": "Zones",
+        "b": "Districts",
+        "c": "Wards",
+        "d": "Provinces"
+      },
+      "GOV-Q38": {
+        "Question": "czxtrvyWards are divided into",
+        "a": "Constituencies",
+        "b": "Districts",
+        "c": "Zones",
+        "d": "Towns"
+      },
+      "GOV-Q39": {
+        "Question": "bzxtrvyThe elected representative of a ward is a ..",
+        "a": "Member of Parliament",
+        "b": "councilor",
+        "c": "Chairman",
+        "d": "Town Clerk"
+      },
+      "GOV-Q40": {
+        "Question": "azxtrvyAn urban place with a very large number of people living in it is called a ..",
+        "a": "City",
+        "b": "District",
+        "c": "Town",
+        "d": "Village"
+      },
+      "GOV-Q41": {
+        "Question": "azxtrvyThe administrative head of a local council in a town is called ..",
+        "a": "Council Secretary",
+        "b": "Town Clerk",
+        "c": "Mayor",
+        "d": "Council Chairperson"
+      },
+      "GOV-Q42": {
+        "Question": "bzxtrvyCDF stands for ",
+        "a": "Community Development Fund",
+        "b": "Constituency Development Fund",
+        "c": "Community Decentralization Fund",
+        "d": "Constituency Decentralization Fund"
+      },
+      "GOV-Q43": {
+        "Question": "azxtrvyA member of parliament is In charge of a ..",
+        "a": "Constituency",
+        "b": "Council",
+        "c": "School",
+        "d": "Ward"
+      },
+      "GOV-Q44": {
+        "Question": "dzxtrvyWho was the First Republican President of Zambia?",
+        "a": "Micheal Sata",
+        "b": "Levy Mwanawasa",
+        "c": "Hakainde Hichilema",
+        "d": "David Kenneth Kaunda"
+      }
+    },
+    "The_World": {
+      "WORLD-Q1": {
+        "Question": "czxtrvyThe world's highest mountains are the..",
+        "a": "Alps",
+        "b": "Drakensberg",
+        "c": "Everest",
+        "d": "Kilimanjaro"
+      },
+      "WORLD-Q2": {
+        "Question": "azxtrvyWhat natural vegetation makes up most of the steppes?",
+        "a": "Cold, dry, grassland",
+        "b": "Coniferous forest",
+        "c": "Evergreen thick forest",
+        "d": "Short thorny bushes"
+      },
+      "WORLD-Q3": {
+        "Question": "dzxtrvyThe Downs Grasslands are important for rearing",
+        "a": "cattle",
+        "b": "sheep",
+        "c": "pigs",
+        "d": "all of the above"
+      },
+      "WORLD-Q4": {
+        "Question": "bzxtrvyDeserts are hotter than equatorial regions because",
+        "a": "deserts are near to the equator",
+        "b": "there is little rainfall in deserts",
+        "c": "the equatorial regions are close to the equator",
+        "d": "there is a lot of sand in the deserts"
+      },
+      "WORLD-Q5": {
+        "Question": "azxtrvyThe.. falls are the second highest in Africa",
+        "a": "Kalambo",
+        "b": "Mambilima",
+        "c": "Ng'onye",
+        "d": "Victoria"
+      },
+      "WORLD-Q6": {
+        "Question": "dzxtrvyName a Zambian footballer who won the African player of the year award in 1988",
+        "a": "Dennis Lota ",
+        "b": "Efford Chabala ",
+        "c": "Godfrey Chitalu ",
+        "d": "Kalusha Bwalya"
+      },
+      "WORLD-Q7": {
+        "Question": "dzxtrvyWhich of the following countries is not a member of SADC? ",
+        "a": "Angola ",
+        "b": "Mozambique ",
+        "c": "Namibia ",
+        "d": "Uganda "
+      },
+      "WORLD-Q8": {
+        "Question": "dzxtrvyThe temperate grasslands of North America are famous for",
+        "a": "coffee",
+        "b": "fruits",
+        "c": "Bananas",
+        "d": "wheat"
+      },
+      "WORLD-Q9": {
+        "Question": "dzxtrvyThe main tourist attraction found in Livingstone Is ..",
+        "a": "Livingstone Museum,",
+        "b": "Maramba Cultural Village",
+        "c": "Mosi-oa-Tunya National Park",
+        "d": "Victoria Falls"
+      },
+      "WORLD-Q10": {
+        "Question": "czxtrvyBefore independence Malawi was called ..",
+        "a": "Bechuanaland",
+        "b": "Northern Rhodesia",
+        "c": "Nyasaland",
+        "d": "Southern Rhodesia"
+      },
+      "WORLD-Q11": {
+        "Question": "dzxtrvyWhich of the following countries is not a member of SADC?",
+        "a": "Angola",
+        "b": "Mozambique",
+        "c": "Namibla",
+        "d": "Uganda"
+      },
+      "WORLD-Q12": {
+        "Question": "bzxtrvyWhen food is preserved by putting it in tins after preparation, ",
+        "a": "bottling",
+        "b": "canning",
+        "c": "tinning",
+        "d": "wrapping"
+      },
+      "WORLD-Q13": {
+        "Question": "bzxtrvyThe best way of preventing malaria is by ..",
+        "a": "eating food in a balanced diet",
+        "b": "sleeping under treated mosquito nets",
+        "c": "taking a bath on daily basis",
+        "d": "using sharp objects to kill mosquitoes"
+      },
+      "WORLD-Q14": {
+        "Question": "azxtrvy is caused by gases that come from factories and vehicles",
+        "a": "Acid rain",
+        "b": "Heavy rain",
+        "c": "Ice rain",
+        "d": "Little rain"
+      },
+      "WORLD-Q15": {
+        "Question": "dzxtrvyFood shortages in some parts of the world are as a result of .",
+        "a": "employment",
+        "b": "good health",
+        "c": "good farming methods",
+        "d": "poor farming methods"
+      },
+      "WORLD-Q16": {
+        "Question": "azxtrvyWhich of the following human activity cannot improve the environment?",
+        "a": "Burning grass",
+        "b": "ControLling soil erosion",
+        "c": "Planting flowers",
+        "d": "Planting trees"
+      },
+      "WORLD-Q17": {
+        "Question": "dzxtrvyTaking care of drainages can help prevent floods and.",
+        "a": "development",
+        "b": "diseases",
+        "c": "drought",
+        "d": "pollution"
+      },
+      "WORLD-Q18": {
+        "Question": "dzxtrvyWhich of the following wastes is not bio-degradable?",
+        "a": "Dung",
+        "b": "food scraps",
+        "c": "Leaves",
+        "d": "Plastics"
+      },
+      "WORLD-Q19": {
+        "Question": "bzxtrvyWhich of the following factors does not influence settlement of people?",
+        "a": "Fertile soil",
+        "b": "Good climate",
+        "c": "Poverty",
+        "d": "Security"
+      },
+      "WORLD-Q20": {
+        "Question": "azxtrvyWhich of the following is an effect of rapid population growth?",
+        "a": "Deforestation",
+        "b": "Food security",
+        "c": "Good medical facilities",
+        "d": "Improved education"
+      },
+      "WORLD-Q21": {
+        "Question": "bzxtrvyWhen we are told not to throw rubbish in the streets, at school, in the bush or in the river we are asked to ... the environment",
+        "a": "destroy ",
+        "b": "protect ",
+        "c": "study ",
+        "d": "work on "
+      },
+      "WORLD-Q22": {
+        "Question": "czxtrvyThe youth can fight HIV and AIDS by ..",
+        "a": "attending traditional ceremonies",
+        "b": "attending youth conferences",
+        "c": "practicing abstinence",
+        "d": "taking curative pills"
+      },
+      "WORLD-Q23": {
+        "Question": "azxtrvyWhen there is little or no rain in a region, we say the region has ..",
+        "a": "drought",
+        "b": "famine",
+        "c": "flood",
+        "d": "humidity"
+      },
+      "WORLD-Q24": {
+        "Question": "bzxtrvyTo avoid soil erosion, all people and community stakeholders should continue ..",
+        "a": "ploughing along the slope",
+        "b": "planting more plants and grass",
+        "c": "cutting down the trees",
+        "d": "burning the grass early"
+      },
+      "WORLD-Q25": {
+        "Question": "czxtrvyThe world experiences a rise in temperature resulting in ..",
+        "a": "chlorofluoro carbons",
+        "b": "fossil fuels",
+        "c": "global warming",
+        "d": "refrigeration system"
+      },
+      "WORLD-Q26": {
+        "Question": "dzxtrvyIlliteracy is a serious problem in ..",
+        "a": "all countries",
+        "b": "countries in Europe",
+        "c": "developed countries",
+        "d": "developing countries"
+      },
+      "WORLD-Q27": {
+        "Question": "azxtrvy Which of the following is not a natural disaster?",
+        "a": "Bomb explosion",
+        "b": "Earthquake",
+        "c": "Famine",
+        "d": " Floods"
+      },
+      "WORLD-Q28": {
+        "Question": "azxtrvyWild animals are protected from poachers when they five in ..",
+        "a": "game reserves",
+        "b": "islands",
+        "c": "swamps",
+        "d": "thick forests"
+      },
+      "WORLD-Q29": {
+        "Question": "czxtrvyThe Ministry of Health helps to prevent diseases through ... programmes",
+        "a": "agriculture",
+        "b": "commercial",
+        "c": "immunization",
+        "d": "maintenance"
+      },
+      "WORLD-Q30": {
+        "Question": "bzxtrvyKwashiorkor can be caused by..",
+        "a": "lack of vitamin A,",
+        "b": "Lack of proteins",
+        "c": "mosquitoes",
+        "d": "tsetse flies"
+      },
+      "WORLD-Q31": {
+        "Question": "azxtrvyWhat does the word afforestation mean?",
+        "a": "Cutting down of trees",
+        "b": "Planting of trees",
+        "c": "Transformation of trees",
+        "d": "Transpiration of trees"
+      },
+      "WORLD-Q32": {
+        "Question": "bzxtrvy The HIV virus attacks the ...system",
+        "a": "circulatory",
+        "b": "Immune",
+        "c": "Nervous",
+        "d": "respiratory"
+      }
+    },
+    "Religion": {
+      "REL-Q1": {
+        "Question": "azxtrvyDavid faced Goliath in the battle because he",
+        "a": "had faith",
+        "b": "was short",
+        "c": "was very strong",
+        "d": "had help from friends"
+      },
+      "REL-Q2": {
+        "Question": "bzxtrvy helps people to have courage to face difficult situations",
+        "a": "Action",
+        "b": "Faith",
+        "c": "Fear",
+        "d": "Risk"
+      },
+      "REL-Q3": {
+        "Question": "dzxtrvyA Mosque is a place of worship for... religion",
+        "a": "Buddhism",
+        "b": "Christianity",
+        "c": "Hinduism",
+        "d": "Islam"
+      },
+      "REL-Q4": {
+        "Question": "bzxtrvyIn Christianity temptation is when a person .",
+        "a": "refuses to pray and read the bible",
+        "b": "is attracted to commit sin",
+        "c": "does wrong things all the time",
+        "d": "have problems in life"
+      },
+      "REL-Q5": {
+        "Question": "czxtrvyDisciples were ..",
+        "a": "Jewish leaders of Israel",
+        "b": "leaders in the Roman government",
+        "c": "people who believed in Jesus Christ",
+        "d": "pharisees of the Bible"
+      },
+      "REL-Q6": {
+        "Question": "czxtrvy .... believe that when one dies his soul can be reborn",
+        "a": " African traditionalists",
+        "b": "Christians",
+        "c": "Hindus",
+        "d": "Muslims"
+      },
+      "REL-Q7": {
+        "Question": "bzxtrvy If a marriage has problems, Christians are advised to ..",
+        "a": "divorce",
+        "b": "fast and pray",
+        "c": "go on separation",
+        "d": "Practice polygamy"
+      },
+      "REL-Q8": {
+        "Question": "dzxtrvy The word \"Amen\" means ..",
+        "a": "hallelujah",
+        "b": "forgiveness",
+        "c": "Jesus Christ",
+        "d": "Let it be so"
+      },
+      "REL-Q9": {
+        "Question": "czxtrvyThe word Bible means ..",
+        "a": "an agreement",
+        "b": "an arrangement.",
+        "c": "books",
+        "d": "holiness"
+      },
+      "REL-Q10": {
+        "Question": "azxtrvyHindus light fireworks during Diwali to chase away ..",
+        "a": "evil spirits",
+        "b": "good luck",
+        "c": "other religions",
+        "d": "sun god"
+      },
+      "REL-Q11": {
+        "Question": "azxtrvyChristians teach that a good marriage partner should be ...",
+        "a": "hard working",
+        "b": "ready to divorce",
+        "c": "unemployed",
+        "d": "unfaithful"
+      },
+      "REL-Q12": {
+        "Question": "bzxtrvy Joseph the father of Jesus was a..",
+        "a": "bricklayer",
+        "b": "carpenter",
+        "c": "fisherman",
+        "d": "preacher,"
+      },
+      "REL-Q13": {
+        "Question": "dzxtrvyJohn is planning to marry a second wife. What advice would you give him as a Christian?",
+        "a": "Divorce the first wife",
+        "b": "Find a beautiful one",
+        "c": "First be on separation. ;",
+        "d": "It is sinful to divorce"
+      }
+    },
+    "Learning_About_Money": {
+      "MONEY-Q1": {
+        "Question": "azxtrvyA .. is a place where people take money and other valuables for safe keeping",
+        "a": "bank",
+        "b": "shop",
+        "c": "storeroom",
+        "d": "warehouse"
+      },
+      "MONEY-Q2": {
+        "Question": "dzxtrvyThe best way of earning money is by .",
+        "a": "begging",
+        "b": "picking",
+        "c": "stealing",
+        "d": "working"
+      },
+      "MONEY-Q3": {
+        "Question": "dzxtrvyAn entrepreneur bought goods worth K150 but after reselling he just had ",
+        "a": "Benefit",
+        "b": "Capital",
+        "c": "Interest",
+        "d": "Loss"
+      },
+      "MONEY-Q4": {
+        "Question": "bzxtrvy. .. is a medium of exchange used to buy goods and services",
+        "a": "Barter",
+        "b": "Money",
+        "c": "Ivory",
+        "d": "Beads"
+      },
+      "MONEY-Q5": {
+        "Question": "dzxtrvyThe best way of spending money is by .",
+        "a": "buying from well known shops",
+        "b": "buying things for everyone",
+        "c": "picking goods randomly",
+        "d": "writing a shopping list"
+      },
+      "MONEY-Q6": {
+        "Question": "czxtrvyThe highest denomination of money used in Zambia is.",
+        "a": "K10",
+        "b": "K50",
+        "c": "K100",
+        "d": "K1 000"
+      },
+      "MONEY-Q7": {
+        "Question": "czxtrvyName the currency for Botswana",
+        "a": "Dollar",
+        "b": "Kwacha",
+        "c": "Pula",
+        "d": "Shillin9"
+      },
+      "MONEY-Q8": {
+        "Question": "czxtrvyWorkers are paid for their ... at the end of the month",
+        "a": "inefficiency",
+        "b": "intelligence",
+        "c": "labour",
+        "d": "wisdom"
+      },
+      "MONEY-Q9": {
+        "Question": "dzxtrvyWhat do the letters ATM stand for?",
+        "a": "African Teller Machine",
+        "b": "Active Money Transfer",
+        "c": "nti-money Transfer",
+        "d": "Automated Teller Machine"
+      },
+      "MONEY-Q10": {
+        "Question": "dzxtrvyis when a business makes more money than what was put in",
+        "a": "Job creation",
+        "b": "Money laundering",
+        "c": "arter System",
+        "d": "Wealth generation"
+      },
+      "MONEY-Q11": {
+        "Question": "bzxtrvyMany people in Zambia move from rural areas to urban areas looking for ..",
+        "a": "land",
+        "b": "jobs",
+        "c": "food",
+        "d": "cinemas"
+      },
+      "MONEY-Q12": {
+        "Question": "dzxtrvyGoods that Zambia cannot produce or manufacture that are bought from other countries and are called ..",
+        "a": "blended goods",
+        "b": "exports",
+        "c": "extracts",
+        "d": "imports"
+      },
+      "MONEY-Q13": {
+        "Question": "bzxtrvyWhich currency is used in Zambia?",
+        "a": "Dollar",
+        "b": "Kwacha",
+        "c": "Pula",
+        "d": "Rand"
+      },
+      "MONEY-Q14": {
+        "Question": "bzxtrvy Entrepreneurship will always involve a lot of ..",
+        "a": "borrowing",
+        "b": "commitment",
+        "c": "laziness",
+        "d": "playing"
+      },
+      "MONEY-Q15": {
+        "Question": "bzxtrvy... is the extra money the bank gets when paying back a loan",
+        "a": "Capital",
+        "b": "Interest",
+        "c": "Mortgage",
+        "d": "Tax"
+      },
+      "MONEY-Q16": {
+        "Question": "czxtrvyThe currency used in Botswana Is ..",
+        "a": "Dollar",
+        "b": "Kwacha",
+        "c": "Pula",
+        "d": "Rand"
+      },
+      "MONEY-Q17": {
+        "Question": "dzxtrvyIn which year was the Zambian currency rebased?",
+        "a": "2010",
+        "b": "2011",
+        "c": "2012",
+        "d": "2013"
+      }
+    },
+    "Diagram_based_questions": {
+      "SSD-Q1": {
+        "Question": "bzxtrvyWhich of the above instruments is used to measure temperature?",
+        "a": "A",
+        "b": "B",
+        "c": "C",
+        "d": "D",
+        "diagram": "Q1-SSD"
+      },
+      "SSD-Q2": {
+        "Question": "azxtrvyWhich of the above instruments is used to measure wind direction?",
+        "a": "A",
+        "b": "B",
+        "c": "C",
+        "d": "D",
+        "diagram": "Q1-SSD"
+      },
+      "SSD-Q3": {
+        "Question": "czxtrvyWhich of the above instruments is used to measure humidity?",
+        "a": "A",
+        "b": "B",
+        "c": "C",
+        "d": "D",
+        "diagram": "Q1-SSD"
+      },
+      "SSD-Q4": {
+        "Question": "dzxtrvyWhich of the above instruments is used to measure rainfall?",
+        "a": "A",
+        "b": "B",
+        "c": "C",
+        "d": "D",
+        "diagram": "Q1-SSD"
+      },
+      "SSD-Q5": {
+        "Question": "czxtrvyThe lake marked Z is ...",
+        "a": "Mweru.",
+        "b": "Bangweulu.",
+        "c": "Tanganyika.",
+        "d": "D",
+        "diagram": "map1-SSD"
+      },
+      "SSD-Q6": {
+        "Question": "dzxtrvyThe source of the Zambezi river is the area marked ...",
+        "a": "U",
+        "b": "N",
+        "c": "Z",
+        "d": "K",
+        "diagram": "map1-SSD"
+      },
+      "SSD-Q7": {
+        "Question": "dzxtrvyThe Lukanga swamps are marked with the letter ...",
+        "a": "P.",
+        "b": "F.",
+        "c": "Z.",
+        "d": "L.",
+        "diagram": "map1-SSD"
+      },
+      "SSD-Q8": {
+        "Question": "bzxtrvyWhich economic activity is done in the area marked E?",
+        "a": "Weaving",
+        "b": "Mining",
+        "c": "THunting",
+        "d": "Fishing",
+        "diagram": "map1-SSD"
+      },
+      "SSD-Q9": {
+        "Question": "azxtrvyLivingstone is marked with a letter ...",
+        "a": "U",
+        "b": "X",
+        "c": "W",
+        "d": "Y",
+        "diagram": "map1-SSD"
+      },
+      "SSD-Q10": {
+        "Question": "azxtrvyThe lake marked Zis ...",
+        "a": "Mweru.",
+        "b": "Bangweulu.",
+        "c": "Tanganyika.",
+        "d": "D",
+        "diagram": "map1-SSD"
+      },
+      "SSD-Q11": {
+        "Question": "azxtrvyThe Kafue Flats are marked with the letter ...",
+        "a": "P.",
+        "b": "F.",
+        "c": "Z.",
+        "d": "L.",
+        "diagram": "map1-SSD"
+      },
+      "SSD-Q12": {
+        "Question": "azxtrvyThe escarpment marked with the letter N is ...",
+        "a": "Zambezi Escarpment",
+        "b": "Muchinga Escarpment",
+        "c": "Livingstone Escarpment",
+        "d": "Lusaka Escarpment",
+        "diagram": "map1-SSD"
+      },
+      "SSD-Q13": {
+        "Question": "azxtrvyThe lake marked X was built mainly for ...",
+        "a": "hydro electric power.",
+        "b": "domestic water supply.",
+        "c": "fishing.",
+        "d": "irrigation.",
+        "diagram": "map2-SSD"
+      },
+      "SSD-Q14": {
+        "Question": "azxtrvyThe source of the Zambezi river is in the area marked ...",
+        "a": "S",
+        "b": "X",
+        "c": "P",
+        "d": "T",
+        "diagram": "map2-SSD"
+      },
+      "SSD-Q15": {
+        "Question": "dzxtrvyThe river marked P is ...",
+        "a": "Luangwa",
+        "b": "Luapula",
+        "c": "Kafue",
+        "d": "Zambezi",
+        "diagram": "map2-SSD"
+      },
+      "SSD-Q16": {
+        "Question": "czxtrvyArea S is famous for growing ...",
+        "a": "maize",
+        "b": "cassava.",
+        "c": "pineapples.",
+        "d": "sugarcane",
+        "diagram": "map2-SSD"
+      },
+      "SSD-Q17": {
+        "Question": "bzxtrvyHighlands marked T are ...",
+        "a": "Makutu.",
+        "b": "Mafinga.",
+        "c": "Mbala.",
+        "d": "Mulonga.",
+        "diagram": "map2-SSD"
+      },
+      "SSD-Q18": {
+        "Question": "azxtrvyTown Z has seen a growth in its population because of ...",
+        "a": "mining.",
+        "b": "farming.",
+        "c": "fishing.",
+        "d": "tourism",
+        "diagram": "map2-SSD"
+      },
+      "SSD-Q19": {
+        "Question": "czxtrvyOn which day was the lowest rainfall recorded?",
+        "a": "Day 6",
+        "b": "Day 1",
+        "c": "Day 2",
+        "d": "Day 5",
+        "diagram": "map3-SSD"
+      },
+      "SSD-Q20": {
+        "Question": "dzxtrvyWhich country was the least producer of maize in 2010?",
+        "a": "Malawi",
+        "b": "Zambia",
+        "c": "South Africa",
+        "d": "Zimbabwe.",
+        "diagram": "chart1-SSD"
+      },
+      "SSD-Q21": {
+        "Question": "bzxtrvyWhich country was the highest producer of maize in 2010?",
+        "a": "Malawi",
+        "b": "Zambia",
+        "c": "South Africa",
+        "d": "Zimbabwe.",
+        "diagram": "chart1-SSD"
+      },
+      "SSD-Q22": {
+        "Question": "czxtrvyWhich colours on the flag represent the natural resources of Zambia?",
+        "a": "Orange and Red",
+        "b": "Red and green",
+        "c": "Green and orange",
+        "d": "Black and red",
+        "diagram": "fig1-SSD"
+      }
+    },
+    "Social_Values": {
+      "SOCIAL-Q1": {
+        "Question": "czxtrvy.... is one of the values parents need to teach children",
+        "a": "Bullying",
+        "b": "Laziness",
+        "c": "Respect",
+        "d": "Stealing"
+      },
+      "SOCIAL-Q2": {
+        "Question": "czxtrvyPoliteness when answering showsâ€¦ others",
+        "a": "love for",
+        "b": "unity with",
+        "c": "respect for",
+        "d": "tolerance for"
+      },
+      "SOCIAL-Q3": {
+        "Question": "azxtrvyPeople living with HIV and AIDS need to be ..",
+        "a": "cared for",
+        "b": "mocked",
+        "c": "separated",
+        "d": "ignored"
+      },
+      "SOCIAL-Q4": {
+        "Question": "czxtrvyare based on the difference between how men and women behave",
+        "a": "Active roles",
+        "b": "Biased roles",
+        "c": "Gender roles",
+        "d": "Sex roles"
+      },
+      "SOCIAL-Q5": {
+        "Question": "dzxtrvyare based on the biologicl difference between men and women ",
+        "a": "Active roles",
+        "b": "Biased roles",
+        "c": "Gender roles",
+        "d": "Sex roles"
+      },
+      "SOCIAL-Q6": {
+        "Question": "czxtrvyChildren learn first about the values and traditions of their culture in the.",
+        "a": "church",
+        "b": "Community",
+        "c": "family",
+        "d": "school"
+      },
+      "SOCIAL-Q7": {
+        "Question": "czxtrvyâ€¦.is the type of family where children belong more to the mother's side",
+        "a": "Extended",
+        "b": "Patrilineal",
+        "c": "Matrilineal",
+        "d": "Nuclear"
+      },
+      "SOCIAL-Q8": {
+        "Question": "czxtrvyWhat do we call a type of family that is made up of only the father, mother and children? ",
+        "a": "Extended family ",
+        "b": "Marriage family ",
+        "c": "Nuclear family ",
+        "d": "Unextended family "
+      },
+      "SOCIAL-Q9": {
+        "Question": "bzxtrvyDowry is money paid ..",
+        "a": "during the marriage ceremony",
+        "b": "before the marriage ceremony",
+        "c": "at the marriage ceremnny ",
+        "d": "after the marriage ceremony"
+      },
+      "SOCIAL-Q10": {
+        "Question": "bzxtrvyA young widow had her property taken by her late husband's relatives. Which crime did they commit? ",
+        "a": "Defilement ",
+        "b": "Property grabbing ",
+        "c": "Wife abuse ",
+        "d": "Wife battery "
+      },
+      "SOCIAL-Q11": {
+        "Question": "azxtrvyAccording to African tradition, the main purpose of marriage is to - - -",
+        "a": "bear children for the family",
+        "b": "cultivate more crops",
+        "c": "love oneâ€™s partner. :",
+        "d": "work hard for the family everyday"
+      },
+      "SOCIAL-Q12": {
+        "Question": "azxtrvyin some Zambian traditions, parents and families choose a husband for their daughter or a wife for their son. What type of marriage is this?",
+        "a": "Arranged marriage",
+        "b": "Family marriage",
+        "c": "Love marriage",
+        "d": "Special marriage"
+      },
+      "SOCIAL-Q13": {
+        "Question": "czxtrvyChildren have a right to ... the property of their deceased parents",
+        "a": "buy",
+        "b": "grab",
+        "c": "inherit",
+        "d": "steal"
+      },
+      "SOCIAL-Q14": {
+        "Question": "bzxtrvyWhich of the following Is the most important basic need?",
+        "a": "Books",
+        "b": "Food",
+        "c": "Jersey",
+        "d": "Shoes"
+      },
+      "SOCIAL-Q15": {
+        "Question": "azxtrvyName one of the sex roles of women",
+        "a": "Breast feeding",
+        "b": "Cooking food",
+        "c": "Raking grass",
+        "d": "Washing plates"
+      },
+      "SOCIAL-Q16": {
+        "Question": "azxtrvyIn Zambian tradition, children learn from ...about the community",
+        "a": "elders",
+        "b": "pastors",
+        "c": "priests",
+        "d": "teachers "
+      },
+      "SOCIAL-Q17": {
+        "Question": "bzxtrvyIn traditional Zambia, marriages were arranged by ..",
+        "a": "chiefs",
+        "b": "elders",
+        "c": "priests",
+        "d": "teachers"
+      }
+    }
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "_INTEGRATED_SCIENCE": {
+    "Text_only_questions": {
+      "IST-Q1": {
+        "Question": "bzxtrvyWhich of the following is a way in which HIV/AIDS is transmitted?",
+        "a": "Eating food from the same plate with an infected person.",
+        "b": "Sharing a razor blade with an infected person.",
+        "c": "Sharing a bed with an infected person.",
+        "d": "Hugging an infected person."
+      },
+      "IST-Q2": {
+        "Question": "azxtrvyWhich of the following is not a planet?",
+        "a": "Sun",
+        "b": "Venus",
+        "c": "Mars",
+        "d": "Mercury"
+      },
+      "IST-Q3": {
+        "Question": "bzxtrvyStudy the list of metals below:\n1. Copper\n2. Zinc\n3. Steel\n4. Iron\n\nWhich metal is the best conductor of electricity?",
+        "a": "Steel",
+        "b": "Copper",
+        "c": "Iron",
+        "d": "Zinc"
+      },
+      "IST-Q4": {
+        "Question": "bzxtrvyA person who smokes too much tobacco is likely to suffer from ...",
+        "a": "Liver disease.",
+        "b": "Lung cancer.",
+        "c": "Kidney failure.",
+        "d": "Heart attack."
+      },
+      "IST-Q5": {
+        "Question": "czxtrvyWhich of the following living things has a head, body and eight legs only?",
+        "a": "Insect",
+        "b": "Worm",
+        "c": "Spider",
+        "d": "Virus"
+      },
+      "IST-Q6": {
+        "Question": "azxtrvyTo which groups of animals do a tortoise and duck belong?\nTortoise \t\t\t Duck",
+        "a": "Reptile\t\t\t Bird",
+        "b": "Bird\t\t\t Reptile",
+        "c": "Fish\t\t\t Amphibian",
+        "d": "Amphibian\t\t\t Fish"
+      },
+      "IST-Q7": {
+        "Question": "czxtrvyWhich of the following lists describes health risks associated with early sexual debut?",
+        "a": "Cervical cancer, Gonorrhea, Syphilis and TB.",
+        "b": "Syphilis, teenage pregnancy, TB and HIV.",
+        "c": "HIV, teenage pregnancy, Syphilis and cervical Cancer.",
+        "d": "Teenage pregnancy, Gonorrhea, Cervical Cancer and TB."
+      },
+      "IST-Q8": {
+        "Question": "czxtrvyA family eats the following meals each day.\nBreakfast: — Bread, butter and black tea\nLunch: — Rice with sugar\nSuper: — Nshima with vegetabies\nWhat deficiency disease are the children in the family likely to suffer from?",
+        "a": "Marasmus",
+        "b": "Goiter",
+        "c": "Kwashiorkor",
+        "d": "Scurvy"
+      },
+      "IST-Q9": {
+        "Question": "czxtrvyWhich of the following is an advantage of using chemical fertiliser?",
+        "a": "It is cheaper.",
+        "b": "It pollutes underground water.",
+        "c": "It releases nutrients into the soil quicker.",
+        "d": "It kills useful organisms in the soil."
+      },
+      "IST-Q10": {
+        "Question": "bzxtrvyA farmer kept all his animals in a small paddock. What challenges is the farmer likely to have?",
+        "a": "Difficult to protect them.",
+        "b": "Out break of disease.",
+        "c": "They failed to have young ones.",
+        "d": "They do not interact well."
+      },
+      "IST-Q11": {
+        "Question": "azxtrvyA certain hospital recorded many cases of blindness from one area. The males in that area were advised to eat more food rich in …",
+        "a": "Vitamin A.",
+        "b": "Vitamin B.",
+        "c": "Vitamin C.",
+        "d": "Vitamin D."
+      },
+      "IST-Q12": {
+        "Question": "dzxtrvyA tsetse fly normally attacks ...",
+        "a": "A pigs.",
+        "b": "B chickens.",
+        "c": "Cc goats.",
+        "d": "D cattle."
+      },
+      "IST-Q13": {
+        "Question": "bzxtrvyA cow produces 15 litres of milk per day. After it was attacked by parasites, the milk production came to 11 litres a day. The effect of this parasite reduced the milk yield by …",
+        "a": "3 litres.",
+        "b": " 4 litres.",
+        "c": "11 litres.",
+        "d": "26 litres."
+      },
+      "IST-Q14": {
+        "Question": "dzxtrvySome learners tested some leaves with patches of green and white colour for starch. Only the green patches in all the leaves turned blue/black when iodine solution was added. This showed that for starch to be formed, there is need for ….",
+        "a": "light.",
+        "b": "carbon dioxide.",
+        "c": "water.",
+        "d": "chlorophyll."
+      },
+      "IST-Q15": {
+        "Question": "bzxtrvyWhich of the following pairs consists of a metal and a non-metal?",
+        "a": "Aluminium and Copper",
+        "b": "Zinc and carbon",
+        "c": "Hydrogen and oxygen",
+        "d": "Nitrogen and carbon dioxide"
+      },
+      "IST-Q16": {
+        "Question": "bzxtrvyWhich one of the following statements describes the process of photosynthesis?",
+        "a": "Starch + oxygen => light-chlorophyl =>carbon dioxide + water",
+        "b": "Carbon dioxide + water  => light-chlorophyl => starch +oxygen",
+        "c": "Starch + water => light-chlorophyl => carbon dioxide + oxygen",
+        "d": "Carbon dioxide + oxygen  => light-chlorophyl => starch + water"
+      },
+      "IST-Q17": {
+        "Question": "dzxtrvy What is the percentage of nitrogen and oxygen in the air?\nNitrogen\t\t Oxygen",
+        "a": "1% \t\t 0.03%",
+        "b": "0.03%\t\t  1%",
+        "c": "21%\t\t  78%",
+        "d": "78% \t\t 21%"
+      },
+      "IST-Q18": {
+        "Question": "bzxtrvyThe following are signs and symptoms of a disease: Waterly diarrhea, vomiting, restlessness, leg cramps. Which disease has the signs and symptoms above?",
+        "a": "Malaria",
+        "b": "Cholera",
+        "c": "Typhoid",
+        "d": "Measles"
+      },
+      "IST-Q19": {
+        "Question": "bzxtrvyWhich of the following is an agent of pollination?",
+        "a": "Petals",
+        "b": "Wind",
+        "c": "Gas",
+        "d": "Stigma"
+      },
+      "IST-Q20": {
+        "Question": "bzxtrvyStudy the list of properties below\n1 Poor conductor of heat \n2 Poor conductor of electricity \n3 Does not reflect light \n4 Can easily break\n Which of the following has the above properties?",
+        "a": "Aluminium",
+        "b": "Chalk",
+        "c": "Copper",
+        "d": "D Zinc"
+      },
+      "IST-Q21": {
+        "Question": "dzxtrvyIf one throws a stone up it always comes down due to the ...",
+        "a": "force of wind.",
+        "b": "weight of stone.",
+        "c": "vacuum in space.",
+        "d": "force of gravity."
+      },
+      "IST-Q22": {
+        "Question": "bzxtrvyDuring a class discussion students brought out the following points:\n1 Contracting STIs\n2 Suffering from \n3 Getting infected with HIV/AIDScervical cancer\n4 Teenage pregnancy\nWhich of the following activities is associated to the above health risks?",
+        "a": "Substance abuse",
+        "b": "Early sexual debut",
+        "c": "Physical changes at puberty",
+        "d": "Infectious diseases"
+      },
+      "IST-Q23": {
+        "Question": "dzxtrvyWhich of the following correctly represents the composition of blood?",
+        "a": "Red blood cells, urea, plasma and lactic acid.",
+        "b": "White blood cells, red blood cells, lactic acid and platelets.",
+        "c": "Urea, platelets, white blood cells and plasma.",
+        "d": "Plasma, platelets, red blood cells and white blood cells."
+      },
+      "IST-Q24": {
+        "Question": "czxtrvyWhich of the following nutrients are correctly paired with their functions.\nNutrient\t\t\t Function",
+        "a": "Vitamin D \t\t\t Healthy gums",
+        "b": "Vitamin C\t\t\t  Strong bones",
+        "c": "Iron \t\t\t For red blood cells",
+        "d": "Iodine \t\t\t Good eye sight"
+      },
+      "IST-Q25": {
+        "Question": "czxtrvyA farmer planted sections of potato tubers and had a good harvest. What method of propagation did the farmer use?",
+        "a": "Vegetative",
+        "b": "Seed",
+        "c": "Stem",
+        "d": "Suckers"
+      },
+      "IST-Q26": {
+        "Question": "bzxtrvyWhich of the following simple machines is used to split or cut things?",
+        "a": "Lever",
+        "b": "Wedge",
+        "c": "Screw",
+        "d": "Pulley"
+      },
+      "IST-Q27": {
+        "Question": "dzxtrvyWhich of the following simple machines is used to pull a heavy load?",
+        "a": "Lever",
+        "b": "Wedge",
+        "c": "Screw",
+        "d": "Pulley"
+      },
+      "IST-Q28": {
+        "Question": "czxtrvyWhich of the following simple machines is used to hold things together?",
+        "a": "Lever",
+        "b": "Wedge",
+        "c": "Screw",
+        "d": "Pulley"
+      },
+      "IST-Q29": {
+        "Question": "azxtrvyWhich of the following simple machines was used in a shadof to draw water?",
+        "a": "Lever",
+        "b": "Wedge",
+        "c": "Screw",
+        "d": "Pulley"
+      },
+      "IST-Q30": {
+        "Question": "dzxtrvyAt a hydro electric power station energy is converted from one form to another. Which of the following shows the correct energy changes?",
+        "a": "Chemical —> potential —> electrical",
+        "b": "Kinetic —> potential —> chemical",
+        "c": "potential —> chemical —> electrical",
+        "d": "potential —> kinetic —> electrical"
+      },
+      "IST-Q31": {
+        "Question": "azxtrvyWhich of the illicit drugs listed below is taken into the body by injection?",
+        "a": "Heroin",
+        "b": "Dagga",
+        "c": "Mandrax",
+        "d": "Glue"
+      },
+      "IST-Q32": {
+        "Question": "czxtrvyThe social challenge most of the people living with HIV/AIDS have is ...",
+        "a": "having no access to ARTS.",
+        "b": "poor community work performance.",
+        "c": "rejection by friends and relatives.",
+        "d": "spending a lot of time thinking of death."
+      },
+      "IST-Q33": {
+        "Question": "dzxtrvyA builder was asked to include some pipes when constructing a latrine. This was to …",
+        "a": "allow germs out.",
+        "b": "allow air in.",
+        "c": "remove dust.",
+        "d": "remove warm air."
+      },
+      "IST-Q34": {
+        "Question": "azxtrvyThe following are signs and symptoms of a disease: Headache, high temperature vomiting and painful joints. Which disease has the signs and symptoms above?",
+        "a": "Malaria",
+        "b": "Cholera",
+        "c": "Typhoid",
+        "d": "Measles"
+      },
+      "IST-Q35": {
+        "Question": "bzxtrvyA learner in a certain school appeared restless most of the time and often picked up fights. The most likely cause of this behaviour is …",
+        "a": "tiredness.",
+        "b": "drug abuse.",
+        "c": "foolishness.",
+        "d": "hatred."
+      },
+      "IST-Q36": {
+        "Question": "bzxtrvyTo raise one side of a car to change a punctured tyre, a driver uses a ...",
+        "a": "wheel and axle.",
+        "b": "screw-jack.",
+        "c": "roller.",
+        "d": "pliers."
+      },
+      "IST-Q37": {
+        "Question": "dzxtrvyThe results obtained by learners during an experiment on drainage rates for four samples of soil are given below. In which soil did the water drain fastest?\nSamples Time for water to drain",
+        "a": "30 \t\tminutes",
+        "b": "20  \t\tminutes",
+        "c": "10  \t\tminutes",
+        "d": "5  \t\tminutes"
+      },
+      "IST-Q38": {
+        "Question": "dzxtrvyStudy the process below showing how copper is extracted and refined.\nDrilling and blasting —> X — Floatation —> Y —- Exporting\nWhich two processes are presented by X and Y?",
+        "a": "Smelting\t\t\t Concentration",
+        "b": "Electrolysis\t\t\t Crushing",
+        "c": "Concentration\t\t\t Smelting",
+        "d": "Crushing \t\t\t Electrolysis"
+      }
+    },
+    "Diagram_based_questions": {
+      "ISD-Q1": {
+        "Question": "azxtrvyThe diagram above shows the water cycle in nature. What process is taking place at 2?",
+        "a": "Evaporation",
+        "b": "Condensation",
+        "c": "Precipitation",
+        "d": "Transpiration",
+        "diagram": "q4_is"
+      },
+      "ISD-Q2": {
+        "Question": "dzxtrvyThe apparatus is used to measure ...",
+        "a": "mass.",
+        "b": "length.",
+        "c": "weight.",
+        "d": "volume.",
+        "diagram": "q7_is"
+      },
+      "ISD-Q3": {
+        "Question": "bzxtrvyIn which two parts of the digestive system are food and water absorbed?",
+        "a": "1 and 2",
+        "b": "3 and 4",
+        "c": " 1 and 3",
+        "d": "2 and 4",
+        "diagram": "q8_is"
+      },
+      "ISD-Q4": {
+        "Question": "azxtrvyA chart was displayed at the gate of a clinic to encourage the community to eat such vegetables as shown above. Which of the following is the importance of having the above vegetables in a diet?",
+        "a": "Protect the body against diseases.",
+        "b": "Provides energy to the body.",
+        "c": "Provides proteins to the body.",
+        "d": "Protects the body from parasites.",
+        "diagram": "q11_is"
+      },
+      "ISD-Q5": {
+        "Question": "azxtrvyStudy the diagram above carefully. What are the processes X and Y? \tX \t\t\t/Y",
+        "a": "Condensation\t\t Evaporation",
+        "b": "Evaporation \t\tCondensation",
+        "c": "Precipitation \t\tTranspiration",
+        "d": "Transpiration \t\tPrecipitation",
+        "diagram": "q49_is"
+      },
+      "ISD-Q6": {
+        "Question": "dzxtrvyStudy the diagram of the digestive system above. What happens at X?",
+        "a": "A Food is digested.",
+        "b": "B Nutrients are absorbed.",
+        "c": "Cc Water is absorbed.",
+        "d": "D Undigested food is stored before elimination.",
+        "diagram": "q20_is"
+      },
+      "ISD-Q7": {
+        "Question": "czxtrvyThe experiment above demonstrates a separation of a mixture using a magnet. Which of the following mixtures was being separated? Which of the following mixtures was being separated?",
+        "a": "A Coarse and fine sand",
+        "b": "B Heavy solids and water",
+        "c": "Cc Iron fillings and sand",
+        "d": "D Salt and water",
+        "diagram": "q24_is"
+      },
+      "ISD-Q8": {
+        "Question": "dzxtrvyThe diagram above shows that air ...",
+        "a": "is invisible.",
+        "b": "occupies space.",
+        "c": "exerts pressure.",
+        "d": "has weight.",
+        "diagram": "q28_is"
+      },
+      "ISD-Q9": {
+        "Question": "czxtrvyThe paper remained dry and water did not enter the glass because air ...",
+        "a": "is lighter than water.",
+        "b": "exerted pressure on the paper.",
+        "c": "Cc occupied space in the glass.",
+        "d": "has the same weight as water.",
+        "diagram": "q31_is"
+      },
+      "ISD-Q10": {
+        "Question": "azxtrvyDuring a Science lesson, learners set up an experiment as shown above. What were the learners investigating?",
+        "a": "Conduction of heat in solids",
+        "b": "Expansion of metals when heated",
+        "c": "Melting of wax when heated",
+        "d": "Pins get burnt when heated",
+        "diagram": "q37_is"
+      },
+      "ISD-Q11": {
+        "Question": "bzxtrvyThe diagram above represents a flower. The function of the part labelled M is to ...",
+        "a": "receive sunlight.",
+        "b": "receive pollen grains.",
+        "c": "produce pollen grains.",
+        "d": "produce ovules.",
+        "diagram": "q39_is"
+      },
+      "ISD-Q12": {
+        "Question": "bzxtrvyA grade 7 learner carried out the  investigation above to find the volume of a stone. What was the volume of the stone?",
+        "a": "1cm3",
+        "b": "2cm3",
+        "c": "3cm3",
+        "d": "4cm3",
+        "diagram": "q42_is"
+      },
+      "ISD-Q13": {
+        "Question": "czxtrvyThe diagram above shows double circulation in human beings. Blood leaving the heart moving to the body flows through the blood vessel ...",
+        "a": "P.",
+        "b": "Q.",
+        "c": "R.",
+        "d": "S.",
+        "diagram": "q45_is"
+      },
+      "ISD-Q14": {
+        "Question": "czxtrvyA learner performed an experiment as shown. The learner poured equal amount of water in all the funnels. The soil 3 is …",
+        "a": "A sand.",
+        "b": "B loam.",
+        "c": "Cc clay.",
+        "d": "D all soil.",
+        "diagram": "q47_is"
+      },
+      "ISD-Q15": {
+        "Question": "czxtrvyThe diagram above shows water being boiled in a pot. Describe what is happening at point X and Y. \n\tX\t\t\t\tY",
+        "a": "Evaporation \t\t\t/Boiling",
+        "b": "Evaporation \t\t\t/Condensation",
+        "c": "Condensation\t\t\t/ Evaporation",
+        "d": "Condensation\t\t\t/ Boiling",
+        "diagram": "q49_is"
+      },
+      "ISD-Q16": {
+        "Question": "bzxtrvyThe diagram above shows an insect.  What are the parts marked P, Q, R and S?\nP\t\t Q\t\t R\t\t S",
+        "a": "Head\t Antennae\tAbdomen\tThorax",
+        "b": "Antennae \t\tHead \t\tThorax \t\tAbdomen",
+        "c": "Abdomen\t\t Thorax\t\t antennae\t \tHead",
+        "d": "Antennae\t \tHead\t \tThorax \t\tAbdomen",
+        "diagram": "q50_is"
+      }
+    }
+  }
+}

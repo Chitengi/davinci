@@ -1,0 +1,94 @@
+{
+  "_SPECIAL_PAPER_2": {
+    "Verbal_Reasoning-Analogies": {
+      "VR-Q1": {
+        "Question": "czxtrvy Fish is to water as bird is to ______",
+        "a": "nest",
+        "b": "tree",
+        "c": "air",
+        "d": "egg"
+      },
+      "VR-Q2": {
+        "Question": "azxtrvy Doctor is to hospital as teacher is to ______",
+        "a": "school",
+        "b": "book",
+        "c": "pen",
+        "d": "class"
+      },
+      "VR-Q3": {
+        "Question": "bzxtrvy Cold is to hot as night is to ______",
+        "a": "dark",
+        "b": "day",
+        "c": "moon",
+        "d": "sun"
+      },
+      "VR-Q4": {
+        "Question": "dzxtrvy Paw is to cat as hoof is to ______",
+        "a": "dog",
+        "b": "bird",
+        "c": "fish",
+        "d": "horse"
+      }
+    },
+    "Numerical_Reasoning-Number_Patterns": {
+      "NR-Q1": {
+        "Question": "bzxtrvy What comes next? 5, 10, 15, 20, ___",
+        "a": "24",
+        "b": "25",
+        "c": "30",
+        "d": "22"
+      },
+      "NR-Q2": {
+        "Question": "czxtrvy What comes next? 1, 4, 9, 16, ___",
+        "a": "20",
+        "b": "22",
+        "c": "25",
+        "d": "18"
+      },
+      "NR-Q3": {
+        "Question": "azxtrvy The pattern 3, 6, 12, 24 follows a rule. What is the rule?",
+        "a": "multiply by 2",
+        "b": "add 3",
+        "c": "multiply by 3",
+        "d": "add 6"
+      },
+      "NR-Q4": {
+        "Question": "dzxtrvy What is the missing number? 7, ___, 21, 28, 35",
+        "a": "10",
+        "b": "12",
+        "c": "15",
+        "d": "14"
+      }
+    },
+    "Spatial_Reasoning-Shapes_and_Patterns": {
+      "SR-Q1": {
+        "Question": "czxtrvy A cube has ______ faces",
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "8"
+      },
+      "SR-Q2": {
+        "Question": "bzxtrvy If you fold a net of a cube, how many edges does the cube have?",
+        "a": "6",
+        "b": "12",
+        "c": "8",
+        "d": "4"
+      },
+      "SR-Q3": {
+        "Question": "azxtrvy A mirror image is also called a ______ reflection",
+        "a": "lateral",
+        "b": "rotational",
+        "c": "diagonal",
+        "d": "vertical"
+      },
+      "SR-Q4": {
+        "Question": "dzxtrvy Which shape has only one line of symmetry?",
+        "a": "square",
+        "b": "circle",
+        "c": "equilateral triangle",
+        "d": "isosceles triangle"
+      }
+    }
+  }
+}

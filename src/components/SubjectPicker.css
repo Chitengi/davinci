@@ -1,0 +1,91 @@
+.subject-picker {
+  min-height: 100vh;
+  background: #f4f6f9;
+}
+
+.picker-header {
+  background: linear-gradient(135deg, #1a1a2e, #0f3460);
+  color: #fff;
+  padding: 1.25rem 1rem 1.5rem;
+  text-align: center;
+  position: relative;
+}
+
+.picker-back {
+  position: absolute;
+  left: 1rem;
+  top: 1.25rem;
+  background: rgba(255,255,255,0.15);
+  border: none;
+  color: #fff;
+  padding: 0.4rem 0.75rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.picker-back:hover {
+  background: rgba(255,255,255,0.25);
+}
+
+.picker-title {
+  font-size: 1.3rem;
+  font-weight: 800;
+  margin: 0 0 0.25rem;
+  color: #ffffff;
+  letter-spacing: 0.4px;
+  text-shadow:
+    0 2px 10px rgba(0, 0, 0, 0.65),
+    0 0 1px rgba(0, 0, 0, 0.55);
+}
+
+.picker-subtitle {
+  font-size: 0.85rem;
+  color: #a0b4d0;
+  margin: 0;
+}
+
+.picker-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 0.75rem;
+  padding: 1.25rem 1rem;
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+.picker-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 1.25rem 0.75rem;
+  border: 2px solid var(--subj-bg);
+  border-radius: 14px;
+  background: var(--subj-bg);
+  cursor: pointer;
+  transition: transform 0.12s, box-shadow 0.12s;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+
+.picker-card:hover,
+.picker-card:focus-visible {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+  border-color: var(--subj-color);
+  outline: none;
+}
+
+.picker-card-emoji {
+  font-size: 2rem;
+}
+
+.picker-card-label {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--subj-color);
+  text-align: center;
+  line-height: 1.2;
+}

@@ -1,0 +1,143 @@
+.paywall-page {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 1rem;
+  background: radial-gradient(circle at 20% 10%, #fef7e1 0%, #e8f7ff 48%, #e9f0ff 100%);
+}
+
+.paywall-card {
+  width: min(620px, 100%);
+  background: #ffffff;
+  border-radius: 18px;
+  padding: 1.25rem;
+  box-shadow: 0 16px 40px rgba(24, 46, 76, 0.2);
+  text-align: left;
+}
+
+.paywall-title {
+  margin: 0;
+  font-size: 1.5rem;
+  color: #123356;
+}
+
+.paywall-subtitle {
+  margin: 0.4rem 0 1rem;
+  color: #516780;
+}
+
+.paywall-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+
+.paywall-label {
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: #34516f;
+}
+
+.paywall-plans {
+  display: grid;
+  gap: 0.55rem;
+}
+
+.paywall-plan {
+  border: 1px solid #c6d8eb;
+  background: #f8fbff;
+  border-radius: 12px;
+  padding: 0.75rem;
+  text-align: left;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.paywall-plan--selected {
+  border-color: #0c77d4;
+  background: #e8f3ff;
+}
+
+.paywall-plan-name {
+  font-weight: 700;
+  color: #123356;
+}
+
+.paywall-plan-price {
+  color: #0c77d4;
+  font-weight: 700;
+}
+
+.paywall-plan-description {
+  color: #4a6078;
+  font-size: 0.88rem;
+  margin: 0;
+}
+
+.paywall-input {
+  width: 100%;
+  border: 1px solid #c6d8eb;
+  border-radius: 10px;
+  font-size: 1rem;
+  padding: 0.7rem;
+  box-sizing: border-box;
+}
+
+.paywall-primary,
+.paywall-secondary {
+  border: none;
+  border-radius: 10px;
+  padding: 0.75rem 1rem;
+  font-size: 0.95rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.paywall-primary {
+  background: #0069c0;
+  color: #fff;
+}
+
+.paywall-primary:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.paywall-secondary {
+  background: #edf2f7;
+  color: #2f4660;
+  margin-top: 0.65rem;
+}
+
+.paywall-error {
+  margin: 0;
+  color: #c62828;
+  font-weight: 700;
+}
+
+.paywall-muted {
+  color: #60758d;
+  font-size: 0.9rem;
+}
+
+.paywall-active-box {
+  border: 1px solid #9ed0a5;
+  background: #effdf2;
+  padding: 1rem;
+  border-radius: 12px;
+}
+
+@media (max-width: 640px) {
+  .paywall-card {
+    padding: 1rem;
+    border-radius: 14px;
+  }
+
+  .paywall-plan {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.2rem;
+  }
+}

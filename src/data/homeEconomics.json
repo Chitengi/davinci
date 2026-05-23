@@ -1,0 +1,124 @@
+{
+  "_HOME_ECONOMICS": {
+    "Food_and_Nutrition-Nutrients": {
+      "NUT-Q1": {
+        "Question": "czxtrvy Which nutrient is the main source of energy for the body?",
+        "a": "proteins",
+        "b": "vitamins",
+        "c": "carbohydrates",
+        "d": "minerals"
+      },
+      "NUT-Q2": {
+        "Question": "azxtrvy Proteins are important for ______",
+        "a": "building and repairing the body",
+        "b": "providing energy",
+        "c": "protecting against infection",
+        "d": "strengthening bones"
+      },
+      "NUT-Q3": {
+        "Question": "bzxtrvy Which vitamin helps prevent night blindness?",
+        "a": "Vitamin C",
+        "b": "Vitamin A",
+        "c": "Vitamin D",
+        "d": "Vitamin B"
+      },
+      "NUT-Q4": {
+        "Question": "dzxtrvy Which food is a good source of carbohydrates?",
+        "a": "chicken",
+        "b": "milk",
+        "c": "vegetables",
+        "d": "nshima (maize meal)"
+      },
+      "NUT-Q5": {
+        "Question": "czxtrvy A balanced diet contains ______",
+        "a": "only proteins and carbohydrates",
+        "b": "only vitamins and minerals",
+        "c": "all the necessary nutrients in the right amounts",
+        "d": "only carbohydrates"
+      }
+    },
+    "Food_and_Nutrition-Food_Preparation": {
+      "PREP-Q1": {
+        "Question": "bzxtrvy Washing hands before handling food is important because ______",
+        "a": "it makes the food taste better",
+        "b": "it prevents spreading germs to food",
+        "c": "it makes cooking faster",
+        "d": "it softens the food"
+      },
+      "PREP-Q2": {
+        "Question": "azxtrvy Which method of cooking preserves the most nutrients in vegetables?",
+        "a": "steaming",
+        "b": "deep frying",
+        "c": "boiling for a long time",
+        "d": "grilling"
+      },
+      "PREP-Q3": {
+        "Question": "czxtrvy Food should be stored properly to ______",
+        "a": "make it look attractive",
+        "b": "change its taste",
+        "c": "prevent it from going bad",
+        "d": "increase its weight"
+      },
+      "PREP-Q4": {
+        "Question": "dzxtrvy The correct temperature for a refrigerator to store food safely is ______",
+        "a": "20°C",
+        "b": "10°C",
+        "c": "0°C",
+        "d": "below 5°C"
+      }
+    },
+    "Family_Life-Family_Roles_and_Responsibilities": {
+      "FAM-Q1": {
+        "Question": "azxtrvy A nuclear family consists of ______",
+        "a": "parents and their children",
+        "b": "grandparents, parents, and children",
+        "c": "brothers and sisters only",
+        "d": "a single parent"
+      },
+      "FAM-Q2": {
+        "Question": "bzxtrvy What is the role of a parent in a family?",
+        "a": "to go to school",
+        "b": "to provide care, guidance, and support",
+        "c": "to play all day",
+        "d": "to obey the children"
+      },
+      "FAM-Q3": {
+        "Question": "czxtrvy Which of the following is a responsibility of a child in the family?",
+        "a": "ignoring household chores",
+        "b": "spending money carelessly",
+        "c": "helping with household tasks",
+        "d": "coming home late"
+      },
+      "FAM-Q4": {
+        "Question": "dzxtrvy An extended family includes ______",
+        "a": "parents and children only",
+        "b": "children only",
+        "c": "father only",
+        "d": "grandparents, aunts, uncles, and cousins"
+      }
+    },
+    "Clothing_and_Textiles-Care_of_Clothing": {
+      "CLOTH-Q1": {
+        "Question": "bzxtrvy Clothes are washed to ______",
+        "a": "make them shrink",
+        "b": "keep them clean and remove dirt",
+        "c": "make them loose",
+        "d": "add colour to them"
+      },
+      "CLOTH-Q2": {
+        "Question": "czxtrvy Which fabric is best suited for hot weather?",
+        "a": "wool",
+        "b": "polyester",
+        "c": "cotton",
+        "d": "nylon"
+      },
+      "CLOTH-Q3": {
+        "Question": "azxtrvy The correct way to care for silk clothing is to ______",
+        "a": "hand wash it gently",
+        "b": "machine wash in hot water",
+        "c": "rub it vigorously",
+        "d": "soak in bleach"
+      }
+    }
+  }
+}

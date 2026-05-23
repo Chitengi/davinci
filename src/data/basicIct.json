@@ -1,0 +1,101 @@
+{
+  "_BASIC_ICT": {
+    "Computer_Hardware-Input_and_Output_Devices": {
+      "HW-Q1": {
+        "Question": "azxtrvy Which of the following is an INPUT device?",
+        "a": "keyboard",
+        "b": "monitor",
+        "c": "printer",
+        "d": "speaker"
+      },
+      "HW-Q2": {
+        "Question": "czxtrvy Which of the following is an OUTPUT device?",
+        "a": "keyboard",
+        "b": "mouse",
+        "c": "monitor",
+        "d": "scanner"
+      },
+      "HW-Q3": {
+        "Question": "bzxtrvy The CPU stands for ______",
+        "a": "Computer Power Unit",
+        "b": "Central Processing Unit",
+        "c": "Computer Program Utility",
+        "d": "Central Program Upgrade"
+      },
+      "HW-Q4": {
+        "Question": "dzxtrvy RAM stands for ______",
+        "a": "Read And Memory",
+        "b": "Remote Access Memory",
+        "c": "Real And Main",
+        "d": "Random Access Memory"
+      },
+      "HW-Q5": {
+        "Question": "czxtrvy Which device is used to point and click on screen objects?",
+        "a": "keyboard",
+        "b": "scanner",
+        "c": "mouse",
+        "d": "printer"
+      }
+    },
+    "Software-Operating_Systems_and_Applications": {
+      "SW-Q1": {
+        "Question": "bzxtrvy An operating system is software that ______",
+        "a": "plays music only",
+        "b": "manages the hardware and software resources of a computer",
+        "c": "draws pictures",
+        "d": "connects computers to the internet"
+      },
+      "SW-Q2": {
+        "Question": "azxtrvy Microsoft Word is an example of ______",
+        "a": "word processing software",
+        "b": "an operating system",
+        "c": "a browser",
+        "d": "hardware"
+      },
+      "SW-Q3": {
+        "Question": "czxtrvy Which of the following is an operating system?",
+        "a": "Microsoft Word",
+        "b": "Google Chrome",
+        "c": "Windows 11",
+        "d": "VLC Media Player"
+      },
+      "SW-Q4": {
+        "Question": "dzxtrvy A web browser is used to ______",
+        "a": "type documents",
+        "b": "edit photos",
+        "c": "create databases",
+        "d": "access websites on the internet"
+      }
+    },
+    "Internet-Safe_Use_of_the_Internet": {
+      "NET-Q1": {
+        "Question": "bzxtrvy Which of the following is a safe practice online?",
+        "a": "sharing your personal password with friends",
+        "b": "keeping passwords private and secure",
+        "c": "clicking on all pop-up advertisements",
+        "d": "meeting strangers from the internet in person"
+      },
+      "NET-Q2": {
+        "Question": "czxtrvy The internet is a ______",
+        "a": "single computer",
+        "b": "type of software",
+        "c": "global network of connected computers",
+        "d": "printer"
+      },
+      "NET-Q3": {
+        "Question": "azxtrvy www stands for ______",
+        "a": "World Wide Web",
+        "b": "World Wireless Web",
+        "c": "Wide World Website",
+        "d": "Web World Wide"
+      },
+      "NET-Q4": {
+        "Question": "dzxtrvy Cyberbullying means ______",
+        "a": "using a computer to play games",
+        "b": "browsing websites safely",
+        "c": "using the internet to share school work",
+        "d": "using technology to harass or harm others"
+      }
+    }
+  }
+}

@@ -1,0 +1,302 @@
+.perf-page {
+  min-height: 100vh;
+  background: #f4f6f9;
+  padding-bottom: 2rem;
+}
+
+.perf-header {
+  background: linear-gradient(135deg, #1a1a2e, #0f3460);
+  color: #fff;
+  padding: 1.1rem 1rem 1.3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  text-align: center;
+}
+
+.perf-back {
+  position: absolute;
+  left: 1rem;
+  top: 1rem;
+  background: rgba(255,255,255,0.15);
+  border: none;
+  color: #fff;
+  padding: 0.4rem 0.7rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.82rem;
+  font-weight: 600;
+}
+
+.perf-back:hover { background: rgba(255,255,255,0.25); }
+.perf-logo-img {
+  width: 96px;
+  height: 96px;
+  object-fit: contain;
+  margin: 0 auto 0.6rem;
+  display: block;
+  filter: drop-shadow(0 6px 12px rgba(0, 0, 0, 0.35));
+}
+.perf-title {
+  font-size: 1.5rem;
+  font-weight: 900;
+  margin: 0 0 0.1rem;
+  letter-spacing: 0.5px;
+  color: #ffffff;
+  text-shadow:
+    0 2px 10px rgba(0, 0, 0, 0.65),
+    0 0 1px rgba(0, 0, 0, 0.55);
+}
+.perf-subtitle { font-size: 0.85rem; color: #a0b4d0; margin: 0; }
+
+.perf-summary {
+  display: flex;
+  gap: 0.75rem;
+  padding: 1.25rem 1rem;
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+.perf-summary-card {
+  flex: 1;
+  background: #fff;
+  border-radius: 14px;
+  padding: 1rem;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.perf-summary-value {
+  font-size: 1.6rem;
+  font-weight: 900;
+  color: #1a1a2e;
+}
+
+.perf-summary-label {
+  font-size: 0.72rem;
+  color: #888;
+  font-weight: 600;
+  margin-top: 0.2rem;
+}
+
+.perf-list {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.perf-session-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #fff;
+  border-radius: 14px;
+  padding: 0.9rem 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+}
+
+.perf-session-left {
+  flex: 1;
+  min-width: 0;
+}
+
+.perf-session-mode {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #999;
+  letter-spacing: 0.5px;
+  margin-bottom: 0.15rem;
+}
+
+.perf-session-subject {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #1a1a2e;
+  margin-bottom: 0.1rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.perf-session-subtopic {
+  font-size: 0.78rem;
+  color: #666;
+  margin-bottom: 0.1rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.perf-session-date {
+  font-size: 0.72rem;
+  color: #aaa;
+}
+
+.perf-session-right {
+  text-align: right;
+  flex-shrink: 0;
+  margin-left: 0.75rem;
+}
+
+.perf-session-score {
+  font-size: 1.2rem;
+  font-weight: 900;
+  line-height: 1;
+}
+
+.perf-session-percent {
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+.perf-empty {
+  text-align: center;
+  padding: 3rem 1rem;
+  color: #666;
+}
+
+.perf-empty-icon { font-size: 3rem; margin-bottom: 0.75rem; }
+.perf-empty p { font-size: 1rem; font-weight: 600; margin: 0.25rem 0; }
+.perf-empty-sub { font-size: 0.85rem; color: #aaa; }
+
+.perf-start-btn {
+  margin-top: 1.25rem;
+  padding: 0.8rem 1.5rem;
+  background: #1565C0;
+  color: #fff;
+  border: none;
+  border-radius: 12px;
+  font-weight: 700;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.perf-start-btn:hover { background: #0D47A1; }
+
+.perf-clear-area {
+  max-width: 680px;
+  margin: 1.5rem auto 0;
+  padding: 0 1rem;
+  text-align: center;
+}
+
+.perf-clear-btn {
+  background: #fce4ec;
+  color: #C62828;
+  border: none;
+  border-radius: 10px;
+  padding: 0.65rem 1.5rem;
+  font-weight: 700;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.perf-clear-btn:hover { background: #ffcdd2; }
+
+.perf-confirm p {
+  font-size: 0.9rem;
+  color: #555;
+  margin-bottom: 0.75rem;
+}
+
+.perf-confirm-btns {
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
+}
+
+.perf-confirm-yes {
+  padding: 0.6rem 1.2rem;
+  background: #C62828;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.perf-confirm-no {
+  padding: 0.6rem 1.2rem;
+  background: #e0e0e0;
+  color: #333;
+
+  /* ── Badges showcase ──────────────────────────────────── */
+  .perf-badges-section {
+    max-width: 680px;
+    margin: 1.5rem auto 0;
+    padding: 0 1rem;
+  }
+
+  .perf-badges-title {
+    font-size: 1.05rem;
+    font-weight: 800;
+    color: #1a1a2e;
+    margin: 0 0 0.9rem;
+  }
+
+  .perf-badges-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 0.65rem;
+  }
+
+  .perf-badge-card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.25rem;
+    padding: 0.9rem 0.5rem 0.75rem;
+    background: #e0e0e0;
+    border-radius: 14px;
+    text-align: center;
+    filter: grayscale(1);
+    opacity: 0.5;
+    transition: transform 0.15s;
+  }
+
+  .perf-badge-card--earned {
+    background: linear-gradient(135deg, #fff8e1, #fffde7);
+    border: 2px solid #f9a825;
+    filter: none;
+    opacity: 1;
+    box-shadow: 0 2px 10px rgba(249, 168, 37, 0.25);
+  }
+
+  .perf-badge-card--earned:hover {
+    transform: translateY(-2px);
+  }
+
+  .perf-badge-icon {
+    font-size: 2rem;
+    line-height: 1;
+  }
+
+  .perf-badge-name {
+    font-size: 0.78rem;
+    font-weight: 800;
+    color: #1a1a2e;
+  }
+
+  .perf-badge-desc {
+    font-size: 0.68rem;
+    color: #666;
+    line-height: 1.3;
+  }
+
+  .perf-badge-lock {
+    position: absolute;
+    top: 0.4rem;
+    right: 0.5rem;
+    font-size: 0.75rem;
+  }
+  border: none;
+  border-radius: 8px;
+  font-weight: 700;
+  cursor: pointer;
+}
